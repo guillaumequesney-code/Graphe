@@ -1,0 +1,81 @@
+{
+ "seance": "2026-10-02",
+ "genere": "2026-10-03 02:50 UTC",
+ "titres": {
+  "QMCO": {
+   "date": "26/06",
+   "texte": "Résultats T4 FY26 fin juin : CA 78 M$ (+27,3 % a/a, 10 M$ au-dessus de la guidance) mais perte de 0,28 $/action vs -0,01 attendu, titre -9,9 % le 26/06 ; relance le 10/08 avec le T1 FY27 : CA 80,8 M$ vs guidance 75 ±2 M$ (+25,7 % a/a), BPA ajusté 0,18 $, EBITDA ajusté 8 M$, dette entièrement éliminée (perte GAAP -7,06 $/action sur charges exceptionnelles), demande ActiveScale et bandes sous contrainte d'offre ; titre +64,7 % le 11/08.",
+   "source": "https://finviz.com/news/380130/quantum-reports-fiscal-first-quarter-2027-financial-results"
+  },
+  "MXL": {
+   "date": "23/04",
+   "texte": "Résultats T1 2026 le 23/04 : CA 137,2 M$ (+43 % a/a), BPA non-GAAP 0,22 $ vs 0,18 attendu (+25,6 %), segment infrastructure +136 % a/a porté par l'optique data center chez plusieurs hyperscalers ; titre +76 % le 24/04, Roth passe à Achat (objectif 60 $), Northland 55 $, Stifel 49 $.",
+   "source": "https://investors.maxlinear.com/press-releases/detail/607"
+  },
+  "FORM": {
+   "date": "29/07",
+   "texte": "Résultats T2 2026 le 29/07, record de CA, de marge brute et de BPA : CA 258,2 M$ (+31,9 % a/a, +14,2 % t/t) vs guidance 240 ±5 M$, marge brute 50,7 % vs 38,4 % au T1, BPA non-GAAP 0,82 $ vs guidance 0,61 ±0,04 $ ; demande HBM et optique co-packagée ; titre +26,3 % le 30/07.",
+   "source": "https://investors.formfactor.com/news-releases/news-release-details/formfactor-inc-reports-2026-second-quarter-results"
+  },
+  "AXTI": {
+   "date": "30/07",
+   "texte": "Résultats T2 2026 le 30/07 : CA 47,6 M$ (+164 % a/a, +77 % t/t) vs 30,4 M$ attendu (+56 %), BPA ajusté 0,19 $ vs 0,07 attendu, marge brute non-GAAP 45 % vs 29,9 % au T1, phosphure d'indium record à 30,7 M$ pour l'optique data center ; titre +28,7 % le 31/07.",
+   "source": "https://www.businesswire.com/news/home/20260730124233/en/"
+  },
+  "SG": {
+   "date": "22/05",
+   "texte": "Le 22/05 JPMorgan relève Sweetgreen de Neutre à Surpondérer, objectif 8 à 13 $ (bon accueil des wraps, inflexion du cash-flow libre attendue), titre +8,9 % ; relance le 17/07, +13,8 %, Bank of America relève son objectif de 7,50 à 8,90 $ sur l'amélioration attendue des marges restaurant.",
+   "source": "https://stockstory.org/us/stocks/nyse/sg/news/why-up-down/sweetgreen-sg-stock-trades-up-here-is-why-2"
+  },
+  "AMD": {
+   "date": "24/04",
+   "texte": "Le 24/04 DA Davidson relève AMD de Neutre à Achat avec un objectif en hausse de 70 % (demande structurelle de CPU serveur pour l'IA agentique), titre +13,9 % à un plus haut historique ; relance le 05/05 avec le T1 2026 : CA 10,3 Md$ vs 9,84 attendu (+4,7 %), BPA non-GAAP 1,37 $ vs 1,29 attendu (+6 %), guidance T2 nettement au-dessus du consensus, Data Center premier moteur ; titre +18,6 % le 06/05.",
+   "source": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000072/0000002488-26-000072.pdf"
+  },
+  "MRAM": {
+   "date": "29/04",
+   "texte": "Résultats T1 2026 le 29/04 : CA 14,9 M$ vs 14,6 attendu (+13,2 % a/a), BPA 0,11 $ vs 0,01 attendu selon le communiqué (0,09 selon d'autres sources), reprise de la demande au Japon, et sous-contrat de 40 M$ signé le 24/04 avec Amentum (programme microélectronique du gouvernement américain, MRAM Toggle pour le mil-aéro, 30 mois) ; titre +38,6 % le 30/04.",
+   "source": "https://www.sec.gov/Archives/edgar/data/0001438423/000162828026028376/mram-20260331xexx991.htm"
+  },
+  "SEI": {
+   "date": "27/04",
+   "texte": "Résultats T1 2026 le 27/04 : CA 196 M$ (+9 % t/t), EBITDA ajusté 84 M$ (+22 % t/t), BPA ajusté 0,44 $, Power Solutions à 910 MW facturés (+17 % t/t), titre +5,4 % le 28/04 ; relance le 08/09, +16,3 % : EBITDA ajusté relevé à 110-130 M$ pour le T3 et 145-180 M$ pour le T4 2026, première guidance T1 2027 à 200-240 M$, portée par les services d'énergie et les acquisitions récentes.",
+   "source": "https://ir.solaris-energy.com/~/media/Files/S/Solaris-IR/press-release/q1-2026-earnings-release-27-04-2026.pdf"
+  },
+  "OLLI": {
+   "date": "02/09",
+   "texte": "Résultats T2 FY26 le 02/09 : CA 741,3 M$ (+9,1 %), comparables -1,8 %, marge brute 43,5 % (+360 pb, remboursements de droits de douane IEEPA et taux plus bas), BPA ajusté 1,42 $ (+43,4 %), 15 ouvertures, Ollie's Army +12,7 % ; titre +23 % en séance.",
+   "source": "https://investors.ollies.com/news-releases/news-release-details/ollies-bargain-outlet-holdings-inc-announces-second-quarter-8"
+  },
+  "SONO": {
+   "date": "29/07",
+   "texte": "Résultats T3 FY26 le 29/07 : CA 375 M$ (+9 % a/a contre +2 % au premier semestre), résultat net GAAP 30 M$ soit 0,25 $/action (+0,28 $ a/a), marge brute en hausse ; titre +4,3 % le jour même puis -17,6 % le 30/07.",
+   "source": "https://www.businesswire.com/news/home/20260729559143/en/Sonos-Reports-Third-Quarter-Fiscal-2026-Results"
+  },
+  "XMTR": {
+   "date": "07/05",
+   "texte": "Résultats T1 2026 record le 07/05 : CA 205 M$ (+36 % a/a) vs 188,3 attendu (+9 %), marketplace +40 %, perte de 0,05 $/action vs -0,15 attendu, EBITDA ajusté 10,5 M$ ; Siemens prend ~50 M$ d'actions et intègre Xometry dans Siemens Xcelerator ; titre +39,2 % ; le 02/06 placement de 2,65 M d'actions à 85 $ (225 M$ bruts), titre -10,8 %.",
+   "source": "https://investors.xometry.com/node/12506/html"
+  },
+  "HPE": {
+   "date": "01/06",
+   "texte": "Résultats T2 FY26 le 01/06 : CA 10,7 Md$ (+40 % a/a), BPA non-GAAP 0,79 $ vs fourchette 0,51-0,55 $, réseau +148 %, backlog IA record 5,9 Md$, croissance FY26 relevée à 29-33 % (contre 17-22 %) ; titre +19,5 % le 02/06 ; le 14/09 Evercore ISI abaisse à En ligne sur la valorisation (13x les bénéfices FY27 contre 8x en moyenne), titre -10,8 %.",
+   "source": "https://www.sec.gov/Archives/edgar/data/0001645590/000164559026000052/ex-991x612026x8k.htm"
+  },
+  "SMCI": {
+   "date": "05/05",
+   "texte": "Résultats T3 FY26 le 05/05 : CA 10,2 Md$ sous les attentes, BPA non-GAAP 0,84 $ au-dessus, guidance FY26 38,9-40,4 Md$, titre +24,5 % le 06/05 ; relance le 21/07 avec un point préliminaire T4 FY26 : nouvelles commandes de plus de 60 Md$ sur le trimestre, backlog record, marge brute 15-17 % vs guidance 8,2-8,4 %, CA près du bas de la fourchette 11-12,5 Md$ ; titre +19,8 % le 22/07.",
+   "source": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx"
+  },
+  "AVT": {
+   "date": "29/04",
+   "texte": "Résultats T3 FY26 le 29/04 : CA 7,1 Md$ (+34 % a/a, +13 % t/t), record en composants électroniques, BPA ajusté 1,48 $ (+76 % a/a, +41 % t/t), marge opérationnelle ajustée 3,1 % ; la direction dit avoir dépassé ses propres attentes.",
+   "source": "https://ir.avnet.com/node/28236"
+  },
+  "IBRX": {
+   "date": "07/05",
+   "texte": "Résultats T1 2026 le 07/05 : revenu produit record 44,2 M$ (+168 % a/a) mais perte GAAP de 0,62 $/action vs -0,07 attendu (ajustée -0,09), titre -7,4 % ; relance le 19/05 : la FDA accepte la sBLA d'Anktiva + BCG dans le cancer de la vessie non invasif réfractaire au BCG avec maladie papillaire, PDUFA le 06/01/2027 ; titre +3,7 % le 20/05.",
+   "source": "https://ir.immunitybio.com/node/11446"
+  }
+ }
+}
