@@ -1,0 +1,106 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Shadow - graphe</title>
+<meta name="robots" content="noindex">
+<style>
+  :root { color-scheme: dark; }
+  html, body { height: 100%; margin: 0; background: #131722; color: #d1d4dc;
+               font: 14px/1.4 system-ui, -apple-system, sans-serif; }
+  #barre { display: flex; align-items: center; gap: .75rem; height: 40px;
+           padding: 0 .75rem; padding-top: env(safe-area-inset-top, 0px);
+           background: #1e222d; border-bottom: 1px solid #2a2e39; }
+  #tk { font-weight: 700; }
+  #cadre { color: #787b86; }
+  #barre a { color: #7aa7ff; text-decoration: none; font-size: 13px; }
+  .pousse { margin-left: auto; }
+  #tv { height: calc(100% - 41px - env(safe-area-inset-top, 0px)); }
+  #err { padding: 2rem 1rem; max-width: 34rem; margin: 0 auto; }
+  code { background: #2a2e39; padding: .1em .35em; border-radius: 3px; }
+</style>
+
+<div id="barre" hidden>
+  <span id="tk"></span><span id="cadre"></span>
+  <a class="pousse" id="lienY">Yahoo (jour)</a>
+  <a id="lienTV">TradingView</a>
+</div>
+<div id="tv"></div>
+<div id="err" hidden></div>
+
+<script>
+// ---------------------------------------------------------------------------
+// Relais du digest Shadow. Recoit ?t=TICKER&tf=4h|jour et affiche le graphe.
+//
+// Pourquoi une page et pas un lien direct :
+//  1. Un lien Telegram ne peut pas etre lourd. La configuration complete d'un
+//     graphe Yahoo pese ~3 ko dans l'URL ; douze liens de cette taille dans un
+//     message ont ete REFUSES par Telegram (mesure du 2026-09-15 : 3,1 ko
+//     accepte, 36,5 ko refuse). Le digest n'envoie donc qu'une URL courte.
+//  2. Yahoo N'APPLIQUE PAS l'unite de temps intraday recue dans l'URL.
+//     Mesure du 2026-09-16, navigateur reel : `4 x 60 minute` ET
+//     `1 x 60 minute` s'ouvrent l'un comme l'autre en 1 minute ; regler
+//     4 hours a la main produit pourtant exactement le meme encodage. Seul
+//     `interval: "day"` est honore. Les etudes, elles, sont appliquees.
+//     TradingView, lui, honore `interval=240` sans compte -- d'ou le graphe
+//     TradingView ici, et Yahoo journalier en secours.
+// ---------------------------------------------------------------------------
+var SOCLE = {"layout":{"interval":60,"periodicity":4,"timeUnit":"minute","candleWidth":4.010282776349614,"flipped":false,"volumeUnderlay":true,"adj":true,"crosshair":true,"chartType":"candle","extended":false,"marketSessions":{},"aggregationType":"ohlc","chartScale":"linear","studies":{"\u200cvol undr\u200c":{"type":"vol undr","inputs":{"Series":"series","id":"\u200cvol undr\u200c","display":"\u200cvol undr\u200c"},"outputs":{"Up Volume":"#0dbd6eee","Down Volume":"#ff5547ee"},"panel":"chart","parameters":{"chartName":"chart","editMode":true,"panelName":"chart"},"disabled":false},"\u200cma\u200c (50,ma,0)":{"type":"ma","inputs":{"Period":50,"Field":"field","Type":"ma","Offset":0,"id":"\u200cma\u200c (50,ma,0)","display":"\u200cma\u200c (50,ma,0)"},"outputs":{"MA":"#FF0000"},"panel":"chart","parameters":{"chartName":"chart","editMode":true,"panelName":"chart"},"disabled":false},"\u200cma\u200c (20,ma,0)":{"type":"ma","inputs":{"Period":"20","Field":"field","Type":"ma","Offset":0,"id":"\u200cma\u200c (20,ma,0)","display":"\u200cma\u200c (20,ma,0)"},"outputs":{"MA":{"color":"#007238ff"}},"panel":"chart","parameters":{"chartName":"chart","editMode":true,"panelName":"chart"},"disabled":false},"\u200cma\u200c (10,ma,0)":{"type":"ma","inputs":{"Period":"10","Field":"field","Type":"ma","Offset":0,"id":"\u200cma\u200c (10,ma,0)","display":"\u200cma\u200c (10,ma,0)"},"outputs":{"MA":{"color":"#9c005dff"}},"panel":"chart","parameters":{"chartName":"chart","editMode":true,"panelName":"chart"},"disabled":false}},"panels":{"chart":{"percent":1,"display":"GOOG","chartName":"chart","index":0,"yAxis":{"name":"chart","position":null},"yaxisLHS":[],"yaxisRHS":["chart","\u200cvol undr\u200c"]}},"setSpan":{},"outliers":false,"animation":true,"headsUp":{"static":true,"dynamic":false,"floating":false},"lineWidth":2,"fullScreen":true,"stripedBackground":true,"color":"#0081f2","crosshairSticky":false,"dontSaveRangeToLayout":true,"symbols":[{"symbol":"GOOG","symbolObject":{"symbol":"GOOG","market":"us_market","quoteType":"EQUITY","exchangeTimeZone":"America/New_York"},"periodicity":4,"interval":60,"timeUnit":"minute","setSpan":{}}],"renderers":[],"range":{}},"events":{"divs":true,"splits":true,"tradingHorizon":"none","sigDevEvents":[]},"drawings":null,"preferences":{}};
+
+var q = new URLSearchParams(location.search);
+var t = (q.get("t") || "").toUpperCase().trim();
+var jour = q.get("tf") === "jour";
+
+// Layout Yahoo complet (volume + MA 10/20/50) en unite journaliere -- la
+// seule que Yahoo applique. Le ticker figure a trois endroits dans le JSON.
+function yahooJour(t) {
+  var d = JSON.parse(JSON.stringify(SOCLE)), L = d.layout;
+  L.panels.chart.display = t;
+  L.symbols[0].symbol = t;
+  L.symbols[0].symbolObject.symbol = t;
+  [L, L.symbols[0]].forEach(function (o) {
+    o.periodicity = 1; o.interval = "day"; o.timeUnit = null;
+  });
+  return "https://finance.yahoo.com/chart/" + t + "#" +
+         btoa(unescape(encodeURIComponent(JSON.stringify(d))));
+}
+
+if (!/^[A-Z][A-Z.\-]{0,6}$/.test(t)) {
+  document.getElementById("tv").hidden = true;
+  var e = document.getElementById("err");
+  e.hidden = false;
+  e.innerHTML = "Parametre <code>t</code> absent ou invalide.<br>" +
+    "Exemple : <code>?t=SLDE&amp;tf=4h</code> ou <code>?t=FIVN&amp;tf=jour</code>.";
+} else {
+  document.getElementById("barre").hidden = false;
+  document.getElementById("tk").textContent = t;
+  document.getElementById("cadre").textContent = jour ? "journalier" : "4 h";
+  document.getElementById("lienTV").href =
+    "https://www.tradingview.com/chart/?symbol=" + t +
+    "&interval=" + (jour ? "D" : "240") + "&theme=dark";
+  document.getElementById("lienY").href = yahooJour(t);
+
+  var s = document.createElement("script");
+  s.src = "https://s3.tradingview.com/tv.js";
+  s.onload = function () {
+    new TradingView.widget({
+      container_id: "tv", autosize: true,
+      symbol: t, interval: jour ? "D" : "240",
+      timezone: "America/New_York", locale: "fr",
+      theme: "dark", style: "1", withdateranges: true,
+      hide_side_toolbar: false, allow_symbol_change: true,
+      studies: [
+        { id: "MASimple@tv-basicstudies", inputs: { length: 10 } },
+        { id: "MASimple@tv-basicstudies", inputs: { length: 20 } },
+        { id: "MASimple@tv-basicstudies", inputs: { length: 50 } },
+        // Bollinger 20/2 : meme periode que la MA 20, qui en est la bande
+        // centrale -- les deux se superposent, c'est voulu.
+        { id: "BB@tv-basicstudies", inputs: { in_0: 20, in_1: 2 } }
+      ]
+    });
+  };
+  // Script indisponible (reseau, bloqueur de contenu) : pas de page vide,
+  // on bascule sur Yahoo journalier, qui porte les memes moyennes.
+  s.onerror = function () { location.replace(yahooJour(t)); };
+  document.head.appendChild(s);
+}
+</script>
