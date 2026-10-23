@@ -1,0 +1,4535 @@
+{
+ "seance": "2026-10-22",
+ "genere": "2026-10-23 02:12 UTC",
+ "marge_jours": 3,
+ "titres": [
+  {
+   "t": "AAPL",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 348.22,
+   "niveaux": {
+    "entree": 348.37,
+    "stop": 338.7
+   },
+   "pente": {
+    "valeur": 0.0083,
+    "rang_jour": [
+     67,
+     79
+    ],
+    "rang_5seances": [
+     196,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-31",
+    "gap_pct": -8.6,
+    "volume_x": 2.7,
+    "seance_pct": -7.4,
+    "marge_jours": 3,
+    "score": 2.86,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-26",
+      "gap_pct": -0.1,
+      "volume_x": 5.3,
+      "seance_pct": 3.1,
+      "marge_jours": 3,
+      "score": 1.75,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 14569.1,
+    "short_pct_flottant": 0.8,
+    "capi_Md": 5081.99,
+    "volume_moyen_M": 44.06,
+    "derniers_resultats": "2026-07-30",
+    "prochains_resultats": "2026-11-02"
+   },
+   "page": "g/AAPL.html"
+  },
+  {
+   "t": "ACA",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 149.15,
+   "niveaux": {
+    "entree": 149.42,
+    "stop": 146.99
+   },
+   "pente": {
+    "valeur": 0.0031,
+    "rang_jour": [
+     68,
+     79
+    ],
+    "rang_5seances": [
+     199,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-22",
+    "gap_pct": 6.7,
+    "volume_x": 16.6,
+    "seance_pct": 6.7,
+    "marge_jours": 3,
+    "score": 5.53,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-29",
+      "gap_pct": 0.0,
+      "volume_x": 4.3,
+      "seance_pct": 0.1,
+      "marge_jours": 3,
+      "score": 1.43,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 48.2,
+    "short_pct_flottant": 3.6,
+    "capi_Md": 7.32,
+    "volume_moyen_M": 0.63,
+    "derniers_resultats": "2026-08-05",
+    "prochains_resultats": "2026-10-29"
+   },
+   "page": "g/ACA.html"
+  },
+  {
+   "t": "AES",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 14.97,
+   "niveaux": {
+    "entree": 15.0,
+    "stop": 14.93
+   },
+   "pente": {
+    "valeur": 0.0019,
+    "rang_jour": [
+     74,
+     79
+    ],
+    "rang_5seances": [
+     208,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-09",
+    "gap_pct": 0.1,
+    "volume_x": 3.1,
+    "seance_pct": 0.6,
+    "marge_jours": 3,
+    "score": 1.05,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 708.8,
+    "short_pct_flottant": 3.3,
+    "capi_Md": 10.68,
+    "volume_moyen_M": 8.05,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-11-04"
+   },
+   "page": "g/AES.html"
+  },
+  {
+   "t": "AMGN",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 447.28,
+   "niveaux": {
+    "entree": 442.42,
+    "stop": 424.74
+   },
+   "pente": {
+    "valeur": 0.0289,
+    "rang_jour": [
+     42,
+     79
+    ],
+    "rang_5seances": [
+     109,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-09-08",
+    "gap_pct": -6.5,
+    "volume_x": 3.1,
+    "seance_pct": -10.1,
+    "marge_jours": 3,
+    "score": 2.16,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-09-18",
+      "gap_pct": -0.3,
+      "volume_x": 3.6,
+      "seance_pct": 1.5,
+      "marge_jours": 3,
+      "score": 1.21,
+      "indiciel_probable": false,
+      "rebalancement_sp": true
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 539.2,
+    "short_pct_flottant": 2.6,
+    "capi_Md": 241.81,
+    "volume_moyen_M": 2.83,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/AMGN.html"
+  },
+  {
+   "t": "ASO",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 61.78,
+   "niveaux": {
+    "entree": 60.56,
+    "stop": 57.55
+   },
+   "pente": {
+    "valeur": 0.0641,
+    "rang_jour": [
+     4,
+     79
+    ],
+    "rang_5seances": [
+     14,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-09-09",
+    "gap_pct": 6.8,
+    "volume_x": 3.6,
+    "seance_pct": 14.4,
+    "marge_jours": 3,
+    "score": 2.26,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-09",
+      "gap_pct": 3.4,
+      "volume_x": 3.2,
+      "seance_pct": -2.5,
+      "marge_jours": 3,
+      "score": 1.15,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-08-25",
+      "gap_pct": -3.4,
+      "volume_x": 3.1,
+      "seance_pct": -5.8,
+      "marge_jours": 3,
+      "score": 1.14,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 60.7,
+    "short_pct_flottant": 21.7,
+    "capi_Md": 3.8,
+    "volume_moyen_M": 1.7,
+    "derniers_resultats": "2026-09-09"
+   },
+   "page": "g/ASO.html"
+  },
+  {
+   "t": "ATEC",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 11.36,
+   "niveaux": {
+    "entree": 11.16,
+    "stop": 10.35
+   },
+   "pente": {
+    "valeur": 0.016,
+    "rang_jour": [
+     61,
+     79
+    ],
+    "rang_5seances": [
+     178,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-06",
+    "gap_pct": -21.7,
+    "volume_x": 8.6,
+    "seance_pct": -31.7,
+    "marge_jours": 3,
+    "score": 7.23,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-09-11",
+      "gap_pct": 8.0,
+      "volume_x": 4.2,
+      "seance_pct": 19.7,
+      "marge_jours": 3,
+      "score": 2.68,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-08-03",
+      "gap_pct": 5.0,
+      "volume_x": 2.3,
+      "seance_pct": 6.6,
+      "marge_jours": 3,
+      "score": 1.68,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 122.1,
+    "short_pct_flottant": 10.5,
+    "capi_Md": 1.75,
+    "volume_moyen_M": 2.19,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-10-29"
+   },
+   "page": "g/ATEC.html"
+  },
+  {
+   "t": "BDX",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 200.42,
+   "niveaux": {
+    "entree": 196.28,
+    "stop": 189.49
+   },
+   "pente": {
+    "valeur": 0.0264,
+    "rang_jour": [
+     49,
+     79
+    ],
+    "rang_5seances": [
+     126,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-26",
+    "gap_pct": 0.9,
+    "volume_x": 5.4,
+    "seance_pct": 3.0,
+    "marge_jours": 3,
+    "score": 1.79,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-07",
+      "gap_pct": 4.3,
+      "volume_x": 2.1,
+      "seance_pct": 5.9,
+      "marge_jours": 3,
+      "score": 1.44,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-09-18",
+      "gap_pct": -0.9,
+      "volume_x": 4.0,
+      "seance_pct": -0.2,
+      "marge_jours": 3,
+      "score": 1.33,
+      "indiciel_probable": false,
+      "rebalancement_sp": true
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 271.7,
+    "short_pct_flottant": 4.1,
+    "capi_Md": 54.59,
+    "volume_moyen_M": 1.75,
+    "derniers_resultats": "2026-08-06",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/BDX.html"
+  },
+  {
+   "t": "BIIB",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 253.84,
+   "niveaux": {
+    "entree": 245.02,
+    "stop": 231.04
+   },
+   "pente": {
+    "valeur": 0.0253,
+    "rang_jour": [
+     52,
+     79
+    ],
+    "rang_5seances": [
+     131,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-14",
+    "gap_pct": -4.2,
+    "volume_x": 3.3,
+    "seance_pct": -8.2,
+    "marge_jours": 3,
+    "score": 1.39,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-09-18",
+      "gap_pct": 0.0,
+      "volume_x": 3.9,
+      "seance_pct": -1.6,
+      "marge_jours": 3,
+      "score": 1.31,
+      "indiciel_probable": false,
+      "rebalancement_sp": true
+     },
+     {
+      "date": "2026-10-12",
+      "gap_pct": 3.7,
+      "volume_x": 1.4,
+      "seance_pct": 1.6,
+      "marge_jours": 3,
+      "score": 1.22,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 147.2,
+    "short_pct_flottant": 4.5,
+    "capi_Md": 37.51,
+    "volume_moyen_M": 1.03,
+    "derniers_resultats": "2026-07-29",
+    "prochains_resultats": "2026-10-28"
+   },
+   "page": "g/BIIB.html"
+  },
+  {
+   "t": "BJ",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 106.63,
+   "niveaux": {
+    "entree": 104.58,
+    "stop": 100.92
+   },
+   "pente": {
+    "valeur": 0.0344,
+    "rang_jour": [
+     28,
+     79
+    ],
+    "rang_5seances": [
+     75,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-22",
+    "gap_pct": -4.9,
+    "volume_x": 3.9,
+    "seance_pct": -8.2,
+    "marge_jours": 3,
+    "score": 1.64,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-20",
+      "gap_pct": -3.1,
+      "volume_x": 3.7,
+      "seance_pct": -0.5,
+      "marge_jours": 3,
+      "score": 1.24,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 125.6,
+    "short_pct_flottant": 8.4,
+    "capi_Md": 13.47,
+    "volume_moyen_M": 1.88,
+    "derniers_resultats": "2026-08-21",
+    "prochains_resultats": "2026-11-20"
+   },
+   "page": "g/BJ.html"
+  },
+  {
+   "t": "CBZ",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 54.89,
+   "niveaux": {
+    "entree": 55.03,
+    "stop": 54.77
+   },
+   "pente": {
+    "valeur": 0.0007,
+    "rang_jour": [
+     77,
+     79
+    ],
+    "rang_5seances": [
+     225,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-29",
+    "gap_pct": 16.8,
+    "volume_x": 24.6,
+    "seance_pct": 17.6,
+    "marge_jours": 3,
+    "score": 8.2,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-10-12",
+      "gap_pct": 0.0,
+      "volume_x": 5.0,
+      "seance_pct": -0.1,
+      "marge_jours": 3,
+      "score": 1.68,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-07-14",
+      "gap_pct": -4.1,
+      "volume_x": 1.4,
+      "seance_pct": 1.1,
+      "marge_jours": 3,
+      "score": 1.36,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 48.6,
+    "short_pct_flottant": 4.1,
+    "capi_Md": 3.02,
+    "volume_moyen_M": 1.49,
+    "derniers_resultats": "2026-10-19",
+    "prochains_resultats": "2027-02-24"
+   },
+   "page": "g/CBZ.html"
+  },
+  {
+   "t": "CI",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 315.88,
+   "niveaux": {
+    "entree": 307.46,
+    "stop": 296.32
+   },
+   "pente": {
+    "valeur": 0.0396,
+    "rang_jour": [
+     20,
+     79
+    ],
+    "rang_5seances": [
+     58,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-30",
+    "gap_pct": -3.5,
+    "volume_x": 1.7,
+    "seance_pct": -3.0,
+    "marge_jours": 3,
+    "score": 1.18,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 262.9,
+    "short_pct_flottant": 2.9,
+    "capi_Md": 83.47,
+    "volume_moyen_M": 1.63,
+    "derniers_resultats": "2026-07-30",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/CI.html"
+  },
+  {
+   "t": "CME",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 305.98,
+   "niveaux": {
+    "entree": 304.16,
+    "stop": 276.38
+   },
+   "pente": {
+    "valeur": 0.0335,
+    "rang_jour": [
+     30,
+     79
+    ],
+    "rang_5seances": [
+     80,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-22",
+    "gap_pct": 4.3,
+    "volume_x": 1.2,
+    "seance_pct": 5.0,
+    "marge_jours": 3,
+    "score": 1.43,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-02",
+      "gap_pct": 0.3,
+      "volume_x": 3.7,
+      "seance_pct": -2.8,
+      "marge_jours": 3,
+      "score": 1.22,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-06-17",
+      "gap_pct": -3.6,
+      "volume_x": 2.0,
+      "seance_pct": -3.5,
+      "marge_jours": 3,
+      "score": 1.2,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 353.1,
+    "short_pct_flottant": 1.7,
+    "capi_Md": 110.02,
+    "volume_moyen_M": 1.98,
+    "derniers_resultats": "2026-10-21",
+    "prochains_resultats": "2027-02-03"
+   },
+   "page": "g/CME.html"
+  },
+  {
+   "t": "CNK",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 39.61,
+   "niveaux": {
+    "entree": 40.42,
+    "stop": 38.3
+   },
+   "pente": {
+    "valeur": 0.0348,
+    "rang_jour": [
+     27,
+     79
+    ],
+    "rang_5seances": [
+     74,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-30",
+    "gap_pct": 4.6,
+    "volume_x": 1.8,
+    "seance_pct": 3.6,
+    "marge_jours": 3,
+    "score": 1.54,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-15",
+      "gap_pct": -3.8,
+      "volume_x": 1.3,
+      "seance_pct": -4.8,
+      "marge_jours": 3,
+      "score": 1.27,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-07-20",
+      "gap_pct": 3.2,
+      "volume_x": 1.5,
+      "seance_pct": 5.0,
+      "marge_jours": 3,
+      "score": 1.06,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 102.3,
+    "short_pct_flottant": 12.2,
+    "capi_Md": 4.59,
+    "volume_moyen_M": 2.26,
+    "derniers_resultats": "2026-07-29",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/CNK.html"
+  },
+  {
+   "t": "COLM",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 62.07,
+   "niveaux": {
+    "entree": 61.51,
+    "stop": 59.5
+   },
+   "pente": {
+    "valeur": 0.0206,
+    "rang_jour": [
+     57,
+     79
+    ],
+    "rang_5seances": [
+     152,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-31",
+    "gap_pct": -1.6,
+    "volume_x": 2.9,
+    "seance_pct": -5.4,
+    "marge_jours": 3,
+    "score": 0.97,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 24.9,
+    "short_pct_flottant": 17.5,
+    "capi_Md": 3.18,
+    "volume_moyen_M": 0.69,
+    "derniers_resultats": "2026-07-30",
+    "prochains_resultats": "2026-10-29"
+   },
+   "page": "g/COLM.html"
+  },
+  {
+   "t": "CON",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 39.97,
+   "niveaux": {
+    "entree": 39.27,
+    "stop": 37.59
+   },
+   "pente": {
+    "valeur": 0.032,
+    "rang_jour": [
+     33,
+     79
+    ],
+    "rang_5seances": [
+     87,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-07",
+    "gap_pct": 12.2,
+    "volume_x": 2.6,
+    "seance_pct": 11.5,
+    "marge_jours": 3,
+    "score": 4.07,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-09-18",
+      "gap_pct": 0.1,
+      "volume_x": 7.4,
+      "seance_pct": -0.2,
+      "marge_jours": 3,
+      "score": 2.47,
+      "indiciel_probable": false,
+      "rebalancement_sp": true
+     },
+     {
+      "date": "2026-05-08",
+      "gap_pct": 2.8,
+      "volume_x": 5.5,
+      "seance_pct": 2.4,
+      "marge_jours": 3,
+      "score": 1.84,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 115.3,
+    "short_pct_flottant": 5.1,
+    "capi_Md": 5.1,
+    "volume_moyen_M": 1.0,
+    "derniers_resultats": "2026-08-06",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/CON.html"
+  },
+  {
+   "t": "COP",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 145.63,
+   "niveaux": {
+    "entree": 147.37,
+    "stop": 142.8
+   },
+   "pente": {
+    "valeur": 0.0466,
+    "rang_jour": [
+     12,
+     79
+    ],
+    "rang_5seances": [
+     33,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-15",
+    "gap_pct": -5.0,
+    "volume_x": 1.8,
+    "seance_pct": -4.0,
+    "marge_jours": 3,
+    "score": 1.67,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-06",
+      "gap_pct": -4.3,
+      "volume_x": 1.6,
+      "seance_pct": -3.6,
+      "marge_jours": 3,
+      "score": 1.45,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-08-06",
+      "gap_pct": 4.3,
+      "volume_x": 1.3,
+      "seance_pct": 1.5,
+      "marge_jours": 3,
+      "score": 1.44,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 1198.8,
+    "short_pct_flottant": 1.3,
+    "capi_Md": 174.95,
+    "volume_moyen_M": 6.57,
+    "derniers_resultats": "2026-08-06",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/COP.html"
+  },
+  {
+   "t": "COST",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 1018.21,
+   "niveaux": {
+    "entree": 1008.82,
+    "stop": 953.78
+   },
+   "pente": {
+    "valeur": 0.0294,
+    "rang_jour": [
+     39,
+     79
+    ],
+    "rang_5seances": [
+     104,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-26",
+    "gap_pct": 1.2,
+    "volume_x": 3.8,
+    "seance_pct": 1.1,
+    "marge_jours": 3,
+    "score": 1.26,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-29",
+      "gap_pct": -0.9,
+      "volume_x": 3.4,
+      "seance_pct": -3.9,
+      "marge_jours": 3,
+      "score": 1.14,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 442.3,
+    "short_pct_flottant": 1.7,
+    "capi_Md": 451.2,
+    "volume_moyen_M": 2.07,
+    "derniers_resultats": "2026-09-24",
+    "prochains_resultats": "2026-12-10"
+   },
+   "page": "g/COST.html"
+  },
+  {
+   "t": "CRBG",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 35.59,
+   "niveaux": {
+    "entree": 35.64,
+    "stop": 34.22
+   },
+   "pente": {
+    "valeur": 0.003,
+    "rang_jour": [
+     70,
+     79
+    ],
+    "rang_5seances": [
+     201,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-06",
+    "gap_pct": -2.0,
+    "volume_x": 4.4,
+    "seance_pct": -1.4,
+    "marge_jours": 3,
+    "score": 1.47,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-11",
+      "gap_pct": -4.2,
+      "volume_x": 2.9,
+      "seance_pct": -3.2,
+      "marge_jours": 3,
+      "score": 1.39,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 268.0,
+    "short_pct_flottant": 5.5,
+    "capi_Md": 15.87,
+    "volume_moyen_M": 4.58,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-11-02"
+   },
+   "page": "g/CRBG.html"
+  },
+  {
+   "t": "CRM",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 250.29,
+   "niveaux": {
+    "entree": 252.32,
+    "stop": 235.6
+   },
+   "pente": {
+    "valeur": 0.0165,
+    "rang_jour": [
+     60,
+     79
+    ],
+    "rang_5seances": [
+     176,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-27",
+    "gap_pct": 11.9,
+    "volume_x": 4.9,
+    "seance_pct": 22.6,
+    "marge_jours": 3,
+    "score": 3.96,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-07-14",
+      "gap_pct": -5.1,
+      "volume_x": 1.0,
+      "seance_pct": -2.1,
+      "marge_jours": 3,
+      "score": 1.7,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-08-06",
+      "gap_pct": -4.9,
+      "volume_x": 1.0,
+      "seance_pct": -3.2,
+      "marge_jours": 3,
+      "score": 1.65,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 797.5,
+    "short_pct_flottant": 4.6,
+    "capi_Md": 205.99,
+    "volume_moyen_M": 12.55,
+    "derniers_resultats": "2026-08-26",
+    "prochains_resultats": "2026-12-02"
+   },
+   "page": "g/CRM.html"
+  },
+  {
+   "t": "CRSR",
+   "quoi": [
+    "base en formation"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 13.64,
+   "niveaux": {
+    "trigger": 14.32,
+    "stop": 13.65
+   },
+   "pente": null,
+   "depart": {
+    "date": "2026-05-28",
+    "gap_pct": 12.9,
+    "volume_x": 22.2,
+    "seance_pct": 21.7,
+    "marge_jours": 3,
+    "score": 7.39,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-07",
+      "gap_pct": 19.5,
+      "volume_x": 6.4,
+      "seance_pct": 35.2,
+      "marge_jours": 3,
+      "score": 6.51,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-08-19",
+      "gap_pct": -4.9,
+      "volume_x": 1.0,
+      "seance_pct": -4.9,
+      "marge_jours": 3,
+      "score": 1.65,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 47.5,
+    "short_pct_flottant": 18.9,
+    "capi_Md": 1.48,
+    "volume_moyen_M": 1.5,
+    "derniers_resultats": "2026-08-06",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/CRSR.html"
+  },
+  {
+   "t": "CVX",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 226.68,
+   "niveaux": {
+    "entree": 229.38,
+    "stop": 221.56
+   },
+   "pente": {
+    "valeur": 0.0315,
+    "rang_jour": [
+     35,
+     79
+    ],
+    "rang_5seances": [
+     90,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-09-18",
+    "gap_pct": -0.2,
+    "volume_x": 6.0,
+    "seance_pct": -1.0,
+    "marge_jours": 3,
+    "score": 2.0,
+    "indiciel_probable": false,
+    "rebalancement_sp": true,
+    "autres": [
+     {
+      "date": "2026-06-15",
+      "gap_pct": -4.4,
+      "volume_x": 1.1,
+      "seance_pct": -3.6,
+      "marge_jours": 3,
+      "score": 1.48,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-05-06",
+      "gap_pct": -3.7,
+      "volume_x": 1.1,
+      "seance_pct": -3.9,
+      "marge_jours": 3,
+      "score": 1.22,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 1868.5,
+    "short_pct_flottant": 1.2,
+    "capi_Md": 444.66,
+    "volume_moyen_M": 8.43,
+    "derniers_resultats": "2026-07-31",
+    "prochains_resultats": "2026-10-30"
+   },
+   "page": "g/CVX.html"
+  },
+  {
+   "t": "CXT",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 58.23,
+   "niveaux": {
+    "entree": 57.96,
+    "stop": 47.31
+   },
+   "pente": {
+    "valeur": 0.0568,
+    "rang_jour": [
+     8,
+     79
+    ],
+    "rang_5seances": [
+     22,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-26",
+    "gap_pct": -0.5,
+    "volume_x": 8.7,
+    "seance_pct": 1.3,
+    "marge_jours": 3,
+    "score": 2.89,
+    "indiciel_probable": true,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-17",
+      "gap_pct": 5.6,
+      "volume_x": 1.4,
+      "seance_pct": 5.8,
+      "marge_jours": 3,
+      "score": 1.85,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-09-22",
+      "gap_pct": 4.2,
+      "volume_x": 1.4,
+      "seance_pct": 5.8,
+      "marge_jours": 3,
+      "score": 1.41,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 57.4,
+    "short_pct_flottant": 22.0,
+    "capi_Md": 3.35,
+    "volume_moyen_M": 0.56,
+    "derniers_resultats": "2026-08-05",
+    "prochains_resultats": "2026-11-04"
+   },
+   "page": "g/CXT.html"
+  },
+  {
+   "t": "DG",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 139.11,
+   "niveaux": {
+    "entree": 137.28,
+    "stop": 132.3
+   },
+   "pente": {
+    "valeur": 0.0388,
+    "rang_jour": [
+     21,
+     79
+    ],
+    "rang_5seances": [
+     62,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-28",
+    "gap_pct": 6.4,
+    "volume_x": 1.4,
+    "seance_pct": 5.3,
+    "marge_jours": 3,
+    "score": 2.13,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-27",
+      "gap_pct": 4.1,
+      "volume_x": 3.3,
+      "seance_pct": 2.5,
+      "marge_jours": 3,
+      "score": 1.37,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-08-20",
+      "gap_pct": -3.5,
+      "volume_x": 1.1,
+      "seance_pct": -1.4,
+      "marge_jours": 3,
+      "score": 1.17,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 218.6,
+    "short_pct_flottant": 3.4,
+    "capi_Md": 30.69,
+    "volume_moyen_M": 2.29,
+    "derniers_resultats": "2026-08-27",
+    "prochains_resultats": "2026-12-03"
+   },
+   "page": "g/DG.html"
+  },
+  {
+   "t": "DIS",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 113.13,
+   "niveaux": {
+    "entree": 112.86,
+    "stop": 108.99
+   },
+   "pente": {
+    "valeur": 0.0265,
+    "rang_jour": [
+     48,
+     79
+    ],
+    "rang_5seances": [
+     125,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-06",
+    "gap_pct": 6.0,
+    "volume_x": 3.3,
+    "seance_pct": 7.5,
+    "marge_jours": 3,
+    "score": 2.0,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-05",
+      "gap_pct": 3.9,
+      "volume_x": 2.0,
+      "seance_pct": 3.6,
+      "marge_jours": 3,
+      "score": 1.29,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 1723.9,
+    "short_pct_flottant": 1.1,
+    "capi_Md": 195.34,
+    "volume_moyen_M": 9.23,
+    "derniers_resultats": "2026-08-05",
+    "prochains_resultats": "2026-11-17"
+   },
+   "page": "g/DIS.html"
+  },
+  {
+   "t": "DOCS",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 33.68,
+   "niveaux": {
+    "entree": 34.15,
+    "stop": 30.59
+   },
+   "pente": {
+    "valeur": 0.0603,
+    "rang_jour": [
+     6,
+     79
+    ],
+    "rang_5seances": [
+     19,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-07",
+    "gap_pct": 88.1,
+    "volume_x": 23.9,
+    "seance_pct": 32.6,
+    "marge_jours": 3,
+    "score": 29.37,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-14",
+      "gap_pct": -21.9,
+      "volume_x": 8.4,
+      "seance_pct": -23.0,
+      "marge_jours": 3,
+      "score": 7.31,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-07-14",
+      "gap_pct": -3.4,
+      "volume_x": 1.1,
+      "seance_pct": -2.2,
+      "marge_jours": 3,
+      "score": 1.12,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 123.6,
+    "short_pct_flottant": 9.1,
+    "capi_Md": 6.0,
+    "volume_moyen_M": 4.52,
+    "derniers_resultats": "2026-08-06",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/DOCS.html"
+  },
+  {
+   "t": "EFOR",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 41.0,
+   "niveaux": {
+    "entree": 40.38,
+    "stop": 37.51
+   },
+   "pente": {
+    "valeur": 0.0446,
+    "rang_jour": [
+     16,
+     79
+    ],
+    "rang_5seances": [
+     45,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-22",
+    "gap_pct": 9.4,
+    "volume_x": 1.2,
+    "seance_pct": 11.3,
+    "marge_jours": 3,
+    "score": 3.13,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-10-01",
+      "gap_pct": 5.0,
+      "volume_x": 2.1,
+      "seance_pct": 10.0,
+      "marge_jours": 3,
+      "score": 1.67,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-07-14",
+      "gap_pct": -4.3,
+      "volume_x": 0.9,
+      "seance_pct": -6.4,
+      "marge_jours": 3,
+      "score": 1.42,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 37.3,
+    "short_pct_flottant": 10.3,
+    "capi_Md": 1.68,
+    "volume_moyen_M": 0.77,
+    "derniers_resultats": "2026-07-29",
+    "prochains_resultats": "2026-10-28"
+   },
+   "page": "g/EFOR.html"
+  },
+  {
+   "t": "EL",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 107.72,
+   "niveaux": {
+    "entree": 106.75,
+    "stop": 103.72
+   },
+   "pente": {
+    "valeur": 0.0451,
+    "rang_jour": [
+     15,
+     79
+    ],
+    "rang_5seances": [
+     44,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-22",
+    "gap_pct": 12.7,
+    "volume_x": 2.5,
+    "seance_pct": 11.9,
+    "marge_jours": 3,
+    "score": 4.25,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-19",
+      "gap_pct": 11.2,
+      "volume_x": 6.3,
+      "seance_pct": 16.3,
+      "marge_jours": 3,
+      "score": 3.75,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 246.3,
+    "short_pct_flottant": 3.0,
+    "capi_Md": 39.03,
+    "volume_moyen_M": 3.09,
+    "derniers_resultats": "2026-08-19",
+    "prochains_resultats": "2026-11-02"
+   },
+   "page": "g/EL.html"
+  },
+  {
+   "t": "EOG",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 157.96,
+   "niveaux": {
+    "entree": 160.17,
+    "stop": 154.29
+   },
+   "pente": {
+    "valeur": 0.038,
+    "rang_jour": [
+     22,
+     79
+    ],
+    "rang_5seances": [
+     65,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-15",
+    "gap_pct": -4.2,
+    "volume_x": 1.6,
+    "seance_pct": -3.4,
+    "marge_jours": 3,
+    "score": 1.39,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-07-29",
+      "gap_pct": 3.8,
+      "volume_x": 0.9,
+      "seance_pct": 4.5,
+      "marge_jours": 3,
+      "score": 1.26,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-05-06",
+      "gap_pct": -3.4,
+      "volume_x": 1.6,
+      "seance_pct": -4.4,
+      "marge_jours": 3,
+      "score": 1.14,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 522.7,
+    "short_pct_flottant": 3.5,
+    "capi_Md": 84.13,
+    "volume_moyen_M": 2.98,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/EOG.html"
+  },
+  {
+   "t": "EQH",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 55.04,
+   "niveaux": {
+    "entree": 54.43,
+    "stop": 52.98
+   },
+   "pente": {
+    "valeur": 0.0027,
+    "rang_jour": [
+     71,
+     79
+    ],
+    "rang_5seances": [
+     202,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-29",
+    "gap_pct": -0.3,
+    "volume_x": 7.4,
+    "seance_pct": 0.7,
+    "marge_jours": 3,
+    "score": 2.45,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-09-18",
+      "gap_pct": -0.1,
+      "volume_x": 5.2,
+      "seance_pct": -0.2,
+      "marge_jours": 3,
+      "score": 1.74,
+      "indiciel_probable": false,
+      "rebalancement_sp": true
+     },
+     {
+      "date": "2026-05-05",
+      "gap_pct": 3.6,
+      "volume_x": 3.1,
+      "seance_pct": 6.1,
+      "marge_jours": 3,
+      "score": 1.21,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 253.0,
+    "short_pct_flottant": 2.3,
+    "capi_Md": 15.01,
+    "volume_moyen_M": 2.87,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-11-02"
+   },
+   "page": "g/EQH.html"
+  },
+  {
+   "t": "EVER",
+   "quoi": [
+    "base en formation"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 23.59,
+   "niveaux": {
+    "trigger": 27.15,
+    "stop": 25.88
+   },
+   "pente": null,
+   "depart": {
+    "date": "2026-05-05",
+    "gap_pct": 30.7,
+    "volume_x": 10.7,
+    "seance_pct": 63.0,
+    "marge_jours": 3,
+    "score": 10.22,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-04",
+      "gap_pct": -7.1,
+      "volume_x": 3.1,
+      "seance_pct": -1.0,
+      "marge_jours": 3,
+      "score": 2.37,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-09-22",
+      "gap_pct": 0.7,
+      "volume_x": 5.3,
+      "seance_pct": -14.4,
+      "marge_jours": 3,
+      "score": 1.75,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 27.3,
+    "short_pct_flottant": 29.6,
+    "capi_Md": 0.83,
+    "volume_moyen_M": 0.72,
+    "derniers_resultats": "2026-08-03",
+    "prochains_resultats": "2026-11-02"
+   },
+   "page": "g/EVER.html"
+  },
+  {
+   "t": "EXPD",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 196.19,
+   "niveaux": {
+    "entree": 199.6,
+    "stop": 194.04
+   },
+   "pente": {
+    "valeur": 0.0129,
+    "rang_jour": [
+     64,
+     79
+    ],
+    "rang_5seances": [
+     190,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-05",
+    "gap_pct": 6.6,
+    "volume_x": 2.0,
+    "seance_pct": 9.6,
+    "marge_jours": 3,
+    "score": 2.19,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-09-18",
+      "gap_pct": 0.1,
+      "volume_x": 3.2,
+      "seance_pct": 1.0,
+      "marge_jours": 3,
+      "score": 1.06,
+      "indiciel_probable": false,
+      "rebalancement_sp": true
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 129.0,
+    "short_pct_flottant": 3.9,
+    "capi_Md": 25.5,
+    "volume_moyen_M": 1.03,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/EXPD.html"
+  },
+  {
+   "t": "EXPO",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 77.11,
+   "niveaux": {
+    "entree": 74.01,
+    "stop": 71.42
+   },
+   "pente": {
+    "valeur": 0.0228,
+    "rang_jour": [
+     55,
+     79
+    ],
+    "rang_5seances": [
+     145,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-09-18",
+    "gap_pct": -0.3,
+    "volume_x": 3.6,
+    "seance_pct": 0.2,
+    "marge_jours": 3,
+    "score": 1.18,
+    "indiciel_probable": false,
+    "rebalancement_sp": true,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 46.9,
+    "short_pct_flottant": 7.6,
+    "capi_Md": 3.67,
+    "volume_moyen_M": 0.51,
+    "derniers_resultats": "2026-07-30",
+    "prochains_resultats": "2026-10-29"
+   },
+   "page": "g/EXPO.html"
+  },
+  {
+   "t": "FIGS",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 20.46,
+   "niveaux": {
+    "entree": 20.34,
+    "stop": 18.66
+   },
+   "pente": {
+    "valeur": 0.1514,
+    "rang_jour": [
+     1,
+     79
+    ],
+    "rang_5seances": [
+     1,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-07",
+    "gap_pct": 35.2,
+    "volume_x": 4.1,
+    "seance_pct": 26.9,
+    "marge_jours": 3,
+    "score": 11.74,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-08",
+      "gap_pct": -20.9,
+      "volume_x": 4.3,
+      "seance_pct": -24.3,
+      "marge_jours": 3,
+      "score": 6.98,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-10-12",
+      "gap_pct": 0.7,
+      "volume_x": 4.5,
+      "seance_pct": 12.4,
+      "marge_jours": 3,
+      "score": 1.49,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 151.5,
+    "short_pct_flottant": 18.0,
+    "capi_Md": 3.4,
+    "volume_moyen_M": 3.35,
+    "derniers_resultats": "2026-08-06",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/FIGS.html"
+  },
+  {
+   "t": "FNKO",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 7.04,
+   "niveaux": {
+    "entree": 7.0,
+    "stop": 6.46
+   },
+   "pente": {
+    "valeur": 0.0593,
+    "rang_jour": [
+     7,
+     79
+    ],
+    "rang_5seances": [
+     20,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-07",
+    "gap_pct": 30.8,
+    "volume_x": 3.4,
+    "seance_pct": 11.4,
+    "marge_jours": 3,
+    "score": 10.26,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-08",
+      "gap_pct": 8.3,
+      "volume_x": 9.4,
+      "seance_pct": 17.9,
+      "marge_jours": 3,
+      "score": 3.12,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-08-27",
+      "gap_pct": 8.8,
+      "volume_x": 1.1,
+      "seance_pct": 5.6,
+      "marge_jours": 3,
+      "score": 2.93,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 37.0,
+    "short_pct_flottant": 17.9,
+    "capi_Md": 0.39,
+    "volume_moyen_M": 1.15,
+    "derniers_resultats": "2026-08-06",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/FNKO.html"
+  },
+  {
+   "t": "GDDY",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 114.73,
+   "niveaux": {
+    "entree": 109.41,
+    "stop": 102.27
+   },
+   "pente": {
+    "valeur": 0.0343,
+    "rang_jour": [
+     29,
+     79
+    ],
+    "rang_5seances": [
+     77,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-31",
+    "gap_pct": -22.7,
+    "volume_x": 4.3,
+    "seance_pct": -16.7,
+    "marge_jours": 3,
+    "score": 7.55,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-29",
+      "gap_pct": 0.0,
+      "volume_x": 9.2,
+      "seance_pct": -0.1,
+      "marge_jours": 3,
+      "score": 3.05,
+      "indiciel_probable": true,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-09-24",
+      "gap_pct": 0.9,
+      "volume_x": 4.9,
+      "seance_pct": 4.6,
+      "marge_jours": 3,
+      "score": 1.64,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 125.7,
+    "short_pct_flottant": 7.0,
+    "capi_Md": 14.53,
+    "volume_moyen_M": 2.14,
+    "derniers_resultats": "2026-07-30",
+    "prochains_resultats": "2026-10-29"
+   },
+   "page": "g/GDDY.html"
+  },
+  {
+   "t": "GO",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 13.9,
+   "niveaux": {
+    "entree": 13.32,
+    "stop": 12.77
+   },
+   "pente": {
+    "valeur": 0.0458,
+    "rang_jour": [
+     13,
+     79
+    ],
+    "rang_5seances": [
+     40,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-14",
+    "gap_pct": 17.7,
+    "volume_x": 4.4,
+    "seance_pct": -0.9,
+    "marge_jours": 3,
+    "score": 5.9,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-13",
+      "gap_pct": 9.4,
+      "volume_x": 2.7,
+      "seance_pct": 6.2,
+      "marge_jours": 3,
+      "score": 3.15,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-09-30",
+      "gap_pct": 6.3,
+      "volume_x": 1.7,
+      "seance_pct": 2.7,
+      "marge_jours": 3,
+      "score": 2.1,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 87.2,
+    "short_pct_flottant": 32.2,
+    "capi_Md": 1.38,
+    "volume_moyen_M": 2.47,
+    "derniers_resultats": "2026-08-12",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/GO.html"
+  },
+  {
+   "t": "GTLB",
+   "quoi": [
+    "base en formation"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 54.53,
+   "niveaux": {
+    "trigger": 55.94,
+    "stop": 53.15
+   },
+   "pente": null,
+   "depart": {
+    "date": "2026-09-02",
+    "gap_pct": 22.4,
+    "volume_x": 6.9,
+    "seance_pct": 10.0,
+    "marge_jours": 3,
+    "score": 7.47,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-12",
+      "gap_pct": -12.0,
+      "volume_x": 2.3,
+      "seance_pct": -10.0,
+      "marge_jours": 3,
+      "score": 3.99,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-06-02",
+      "gap_pct": -7.1,
+      "volume_x": 5.0,
+      "seance_pct": -5.8,
+      "marge_jours": 3,
+      "score": 2.36,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 138.1,
+    "short_pct_flottant": 8.3,
+    "capi_Md": 9.09,
+    "volume_moyen_M": 4.65,
+    "derniers_resultats": "2026-09-01",
+    "prochains_resultats": "2026-12-01"
+   },
+   "page": "g/GTLB.html"
+  },
+  {
+   "t": "HST",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 24.87,
+   "niveaux": {
+    "entree": 24.87,
+    "stop": 23.9
+   },
+   "pente": {
+    "valeur": 0.0352,
+    "rang_jour": [
+     26,
+     79
+    ],
+    "rang_5seances": [
+     73,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-06",
+    "gap_pct": -5.5,
+    "volume_x": 2.3,
+    "seance_pct": -7.0,
+    "marge_jours": 3,
+    "score": 1.84,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 674.2,
+    "short_pct_flottant": 8.1,
+    "capi_Md": 17.28,
+    "volume_moyen_M": 8.91,
+    "derniers_resultats": "2026-08-05",
+    "prochains_resultats": "2026-11-04"
+   },
+   "page": "g/HST.html"
+  },
+  {
+   "t": "IFF",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 93.83,
+   "niveaux": {
+    "entree": 92.16,
+    "stop": 89.73
+   },
+   "pente": {
+    "valeur": 0.0313,
+    "rang_jour": [
+     36,
+     79
+    ],
+    "rang_5seances": [
+     93,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-06",
+    "gap_pct": 14.2,
+    "volume_x": 3.5,
+    "seance_pct": 17.2,
+    "marge_jours": 3,
+    "score": 4.72,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-05",
+      "gap_pct": 3.6,
+      "volume_x": 2.1,
+      "seance_pct": 8.9,
+      "marge_jours": 3,
+      "score": 1.21,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-06-09",
+      "gap_pct": 3.3,
+      "volume_x": 1.1,
+      "seance_pct": 4.4,
+      "marge_jours": 3,
+      "score": 1.09,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 254.4,
+    "short_pct_flottant": 8.7,
+    "capi_Md": 23.96,
+    "volume_moyen_M": 1.74,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/IFF.html"
+  },
+  {
+   "t": "IOT",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 43.78,
+   "niveaux": {
+    "entree": 43.85,
+    "stop": 38.9
+   },
+   "pente": {
+    "valeur": 0.011,
+    "rang_jour": [
+     65,
+     79
+    ],
+    "rang_5seances": [
+     193,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-09-04",
+    "gap_pct": 15.9,
+    "volume_x": 5.2,
+    "seance_pct": 3.7,
+    "marge_jours": 3,
+    "score": 5.29,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-10",
+      "gap_pct": -4.3,
+      "volume_x": 1.6,
+      "seance_pct": -2.5,
+      "marge_jours": 3,
+      "score": 1.44,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-06-05",
+      "gap_pct": 4.0,
+      "volume_x": 3.3,
+      "seance_pct": -1.2,
+      "marge_jours": 3,
+      "score": 1.34,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 367.7,
+    "short_pct_flottant": 9.8,
+    "capi_Md": 25.64,
+    "volume_moyen_M": 5.7,
+    "derniers_resultats": "2026-09-03",
+    "prochains_resultats": "2026-12-03"
+   },
+   "page": "g/IOT.html"
+  },
+  {
+   "t": "IOVA",
+   "quoi": [
+    "cassure Q"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 14.14,
+   "niveaux": {
+    "entree": 14.74,
+    "stop": 13.69
+   },
+   "pente": null,
+   "depart": {
+    "date": "2026-08-06",
+    "gap_pct": 37.1,
+    "volume_x": 5.4,
+    "seance_pct": 43.1,
+    "marge_jours": 3,
+    "score": 12.37,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-09-29",
+      "gap_pct": 16.4,
+      "volume_x": 6.3,
+      "seance_pct": 31.5,
+      "marge_jours": 3,
+      "score": 5.46,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-05-07",
+      "gap_pct": -14.2,
+      "volume_x": 3.1,
+      "seance_pct": -13.2,
+      "marge_jours": 3,
+      "score": 4.73,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 394.3,
+    "short_pct_flottant": 15.3,
+    "capi_Md": 6.41,
+    "volume_moyen_M": 16.46,
+    "derniers_resultats": "2026-08-06",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/IOVA.html"
+  },
+  {
+   "t": "ISRG",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 443.85,
+   "niveaux": {
+    "entree": 441.06,
+    "stop": 425.51
+   },
+   "pente": {
+    "valeur": 0.0271,
+    "rang_jour": [
+     47,
+     79
+    ],
+    "rang_5seances": [
+     121,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-17",
+    "gap_pct": -9.3,
+    "volume_x": 4.4,
+    "seance_pct": -14.1,
+    "marge_jours": 3,
+    "score": 3.09,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-10-21",
+      "gap_pct": -8.1,
+      "volume_x": 2.6,
+      "seance_pct": -2.3,
+      "marge_jours": 3,
+      "score": 2.7,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 347.0,
+    "short_pct_flottant": 2.1,
+    "capi_Md": 156.8,
+    "volume_moyen_M": 2.56,
+    "derniers_resultats": "2026-10-20",
+    "prochains_resultats": "2027-01-21"
+   },
+   "page": "g/ISRG.html"
+  },
+  {
+   "t": "KDP",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 35.19,
+   "niveaux": {
+    "entree": 34.94,
+    "stop": 34.26
+   },
+   "pente": {
+    "valeur": 0.0435,
+    "rang_jour": [
+     17,
+     79
+    ],
+    "rang_5seances": [
+     48,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-06",
+    "gap_pct": 5.7,
+    "volume_x": 1.4,
+    "seance_pct": -1.2,
+    "marge_jours": 3,
+    "score": 1.9,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-26",
+      "gap_pct": 1.2,
+      "volume_x": 4.3,
+      "seance_pct": 3.4,
+      "marge_jours": 3,
+      "score": 1.43,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 1354.4,
+    "short_pct_flottant": 6.0,
+    "capi_Md": 47.89,
+    "volume_moyen_M": 11.71,
+    "derniers_resultats": "2026-08-06",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/KDP.html"
+  },
+  {
+   "t": "KMI",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 33.72,
+   "niveaux": {
+    "entree": 34.37,
+    "stop": 32.32
+   },
+   "pente": {
+    "valeur": 0.0253,
+    "rang_jour": [
+     53,
+     79
+    ],
+    "rang_5seances": [
+     133,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-09-18",
+    "gap_pct": -0.4,
+    "volume_x": 2.9,
+    "seance_pct": 1.7,
+    "marge_jours": 3,
+    "score": 0.97,
+    "indiciel_probable": false,
+    "rebalancement_sp": true,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 1935.7,
+    "short_pct_flottant": 2.4,
+    "capi_Md": 75.02,
+    "volume_moyen_M": 12.26,
+    "derniers_resultats": "2026-10-21",
+    "prochains_resultats": "2027-01-27"
+   },
+   "page": "g/KMI.html"
+  },
+  {
+   "t": "KO",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 95.34,
+   "niveaux": {
+    "entree": 94.13,
+    "stop": 92.56
+   },
+   "pente": {
+    "valeur": 0.0273,
+    "rang_jour": [
+     46,
+     79
+    ],
+    "rang_5seances": [
+     120,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-28",
+    "gap_pct": 5.0,
+    "volume_x": 2.3,
+    "seance_pct": 5.0,
+    "marge_jours": 3,
+    "score": 1.68,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-26",
+      "gap_pct": 0.7,
+      "volume_x": 3.1,
+      "seance_pct": 2.7,
+      "marge_jours": 3,
+      "score": 1.03,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-06-18",
+      "gap_pct": -0.1,
+      "volume_x": 3.1,
+      "seance_pct": -0.7,
+      "marge_jours": 3,
+      "score": 1.02,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 3874.0,
+    "short_pct_flottant": 1.2,
+    "capi_Md": 410.2,
+    "volume_moyen_M": 15.88,
+    "derniers_resultats": "2026-07-28",
+    "prochains_resultats": "2026-10-27"
+   },
+   "page": "g/KO.html"
+  },
+  {
+   "t": "KR",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 67.87,
+   "niveaux": {
+    "entree": 64.98,
+    "stop": 61.81
+   },
+   "pente": {
+    "valeur": 0.0261,
+    "rang_jour": [
+     51,
+     79
+    ],
+    "rang_5seances": [
+     128,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-21",
+    "gap_pct": -5.0,
+    "volume_x": 1.7,
+    "seance_pct": -2.3,
+    "marge_jours": 3,
+    "score": 1.65,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-18",
+      "gap_pct": -3.9,
+      "volume_x": 3.5,
+      "seance_pct": -8.4,
+      "marge_jours": 3,
+      "score": 1.29,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-07-23",
+      "gap_pct": -3.4,
+      "volume_x": 1.3,
+      "seance_pct": -3.1,
+      "marge_jours": 3,
+      "score": 1.12,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 587.9,
+    "short_pct_flottant": 5.3,
+    "capi_Md": 40.08,
+    "volume_moyen_M": 7.12,
+    "derniers_resultats": "2026-09-11",
+    "prochains_resultats": "2026-12-03"
+   },
+   "page": "g/KR.html"
+  },
+  {
+   "t": "KSS",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 24.78,
+   "niveaux": {
+    "entree": 22.93,
+    "stop": 21.12
+   },
+   "pente": {
+    "valeur": 0.0617,
+    "rang_jour": [
+     5,
+     79
+    ],
+    "rang_5seances": [
+     15,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-28",
+    "gap_pct": 20.0,
+    "volume_x": 3.7,
+    "seance_pct": 20.6,
+    "marge_jours": 3,
+    "score": 6.65,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-26",
+      "gap_pct": -5.8,
+      "volume_x": 3.8,
+      "seance_pct": 1.5,
+      "marge_jours": 3,
+      "score": 1.94,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-06-15",
+      "gap_pct": -3.4,
+      "volume_x": 1.2,
+      "seance_pct": -4.8,
+      "marge_jours": 3,
+      "score": 1.13,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 111.6,
+    "short_pct_flottant": 32.4,
+    "capi_Md": 2.81,
+    "volume_moyen_M": 4.18,
+    "derniers_resultats": "2026-08-26",
+    "prochains_resultats": "2026-11-24"
+   },
+   "page": "g/KSS.html"
+  },
+  {
+   "t": "LIND",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 35.25,
+   "niveaux": {
+    "entree": 36.02,
+    "stop": 33.44
+   },
+   "pente": {
+    "valeur": 0.0308,
+    "rang_jour": [
+     37,
+     79
+    ],
+    "rang_5seances": [
+     96,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-26",
+    "gap_pct": -1.2,
+    "volume_x": 6.9,
+    "seance_pct": 3.4,
+    "marge_jours": 3,
+    "score": 2.3,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-05",
+      "gap_pct": -6.8,
+      "volume_x": 2.1,
+      "seance_pct": 14.7,
+      "marge_jours": 3,
+      "score": 2.28,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-08-03",
+      "gap_pct": 4.8,
+      "volume_x": 2.6,
+      "seance_pct": 12.0,
+      "marge_jours": 3,
+      "score": 1.6,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 49.4,
+    "short_pct_flottant": 12.0,
+    "capi_Md": 2.31,
+    "volume_moyen_M": 0.88,
+    "derniers_resultats": "2026-08-03",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/LIND.html"
+  },
+  {
+   "t": "LLY",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 1306.69,
+   "niveaux": {
+    "entree": 1313.72,
+    "stop": 1239.1
+   },
+   "pente": {
+    "valeur": 0.0333,
+    "rang_jour": [
+     31,
+     79
+    ],
+    "rang_5seances": [
+     83,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-05",
+    "gap_pct": 5.2,
+    "volume_x": 2.6,
+    "seance_pct": 4.9,
+    "marge_jours": 3,
+    "score": 1.74,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 888.9,
+    "short_pct_flottant": 0.8,
+    "capi_Md": 1164.73,
+    "volume_moyen_M": 2.48,
+    "derniers_resultats": "2026-08-05",
+    "prochains_resultats": "2026-10-29"
+   },
+   "page": "g/LLY.html"
+  },
+  {
+   "t": "MAX",
+   "quoi": [
+    "base en formation"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 12.41,
+   "niveaux": {
+    "trigger": 14.19,
+    "stop": 13.47
+   },
+   "pente": null,
+   "depart": {
+    "date": "2026-06-25",
+    "gap_pct": -3.9,
+    "volume_x": 1.8,
+    "seance_pct": 2.2,
+    "marge_jours": 3,
+    "score": 1.3,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 25.0,
+    "short_pct_flottant": 9.4,
+    "capi_Md": 0.66,
+    "volume_moyen_M": 0.82,
+    "derniers_resultats": "2026-07-29",
+    "prochains_resultats": "2026-10-28"
+   },
+   "page": "g/MAX.html"
+  },
+  {
+   "t": "MET",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 103.57,
+   "niveaux": {
+    "entree": 102.58,
+    "stop": 99.53
+   },
+   "pente": {
+    "valeur": 0.0181,
+    "rang_jour": [
+     58,
+     79
+    ],
+    "rang_5seances": [
+     164,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-09-18",
+    "gap_pct": -0.5,
+    "volume_x": 2.6,
+    "seance_pct": -0.3,
+    "marge_jours": 3,
+    "score": 0.86,
+    "indiciel_probable": false,
+    "rebalancement_sp": true,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 531.2,
+    "short_pct_flottant": 1.8,
+    "capi_Md": 65.82,
+    "volume_moyen_M": 3.33,
+    "derniers_resultats": "2026-08-05",
+    "prochains_resultats": "2026-11-04"
+   },
+   "page": "g/MET.html"
+  },
+  {
+   "t": "MKTX",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 164.66,
+   "niveaux": {
+    "entree": 164.97,
+    "stop": 164.4
+   },
+   "pente": {
+    "valeur": 0.0014,
+    "rang_jour": [
+     76,
+     79
+    ],
+    "rang_5seances": [
+     212,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-30",
+    "gap_pct": 29.8,
+    "volume_x": 20.4,
+    "seance_pct": 29.5,
+    "marge_jours": 3,
+    "score": 9.92,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 29.6,
+    "short_pct_flottant": 11.8,
+    "capi_Md": 5.8,
+    "volume_moyen_M": 1.1,
+    "derniers_resultats": "2026-07-30",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/MKTX.html"
+  },
+  {
+   "t": "MO",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 76.07,
+   "niveaux": {
+    "entree": 75.63,
+    "stop": 73.67
+   },
+   "pente": {
+    "valeur": 0.0319,
+    "rang_jour": [
+     34,
+     79
+    ],
+    "rang_5seances": [
+     88,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-30",
+    "gap_pct": -5.6,
+    "volume_x": 3.3,
+    "seance_pct": -9.3,
+    "marge_jours": 3,
+    "score": 1.88,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 1666.5,
+    "short_pct_flottant": 2.3,
+    "capi_Md": 127.02,
+    "volume_moyen_M": 8.62,
+    "derniers_resultats": "2026-07-30",
+    "prochains_resultats": "2026-10-29"
+   },
+   "page": "g/MO.html"
+  },
+  {
+   "t": "MQ",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 19.35,
+   "niveaux": {
+    "entree": 19.13,
+    "stop": 18.48
+   },
+   "pente": {
+    "valeur": 0.0499,
+    "rang_jour": [
+     10,
+     79
+    ],
+    "rang_5seances": [
+     26,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-06",
+    "gap_pct": -4.5,
+    "volume_x": 2.2,
+    "seance_pct": -7.7,
+    "marge_jours": 3,
+    "score": 1.49,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 89.8,
+    "short_pct_flottant": 6.0,
+    "capi_Md": 2.04,
+    "volume_moyen_M": 0.92,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/MQ.html"
+  },
+  {
+   "t": "NOW",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 157.0,
+   "niveaux": {
+    "entree": 154.48,
+    "stop": 138.16
+   },
+   "pente": {
+    "valeur": 0.0287,
+    "rang_jour": [
+     44,
+     79
+    ],
+    "rang_5seances": [
+     113,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-01",
+    "gap_pct": 9.2,
+    "volume_x": 2.7,
+    "seance_pct": 9.2,
+    "marge_jours": 3,
+    "score": 3.06,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-07-14",
+      "gap_pct": -6.8,
+      "volume_x": 1.0,
+      "seance_pct": -5.8,
+      "marge_jours": 3,
+      "score": 2.25,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-05-19",
+      "gap_pct": 6.5,
+      "volume_x": 2.4,
+      "seance_pct": -1.5,
+      "marge_jours": 3,
+      "score": 2.17,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 1031.3,
+    "short_pct_flottant": 2.9,
+    "capi_Md": 162.32,
+    "volume_moyen_M": 16.56,
+    "derniers_resultats": "2026-07-22",
+    "prochains_resultats": "2026-10-28"
+   },
+   "page": "g/NOW.html"
+  },
+  {
+   "t": "NWE",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 77.13,
+   "niveaux": {
+    "entree": 76.8,
+    "stop": 73.89
+   },
+   "pente": {
+    "valeur": 0.0274,
+    "rang_jour": [
+     45,
+     79
+    ],
+    "rang_5seances": [
+     119,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-10-07",
+    "gap_pct": 4.3,
+    "volume_x": 3.9,
+    "seance_pct": 7.3,
+    "marge_jours": 3,
+    "score": 1.43,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-26",
+      "gap_pct": 0.8,
+      "volume_x": 3.3,
+      "seance_pct": 2.8,
+      "marge_jours": 3,
+      "score": 1.09,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 61.1,
+    "short_pct_flottant": 4.2,
+    "capi_Md": 4.74,
+    "volume_moyen_M": 0.46,
+    "derniers_resultats": "2026-07-29",
+    "prochains_resultats": "2026-11-04"
+   },
+   "page": "g/NWE.html"
+  },
+  {
+   "t": "OPRT",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 9.31,
+   "niveaux": {
+    "entree": 9.36,
+    "stop": 8.75
+   },
+   "pente": {
+    "valeur": 0.0361,
+    "rang_jour": [
+     24,
+     79
+    ],
+    "rang_5seances": [
+     71,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-06",
+    "gap_pct": 11.2,
+    "volume_x": 6.6,
+    "seance_pct": 32.8,
+    "marge_jours": 3,
+    "score": 3.74,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-28",
+      "gap_pct": 0.2,
+      "volume_x": 6.6,
+      "seance_pct": 1.5,
+      "marge_jours": 3,
+      "score": 2.21,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-05-08",
+      "gap_pct": -4.2,
+      "volume_x": 1.2,
+      "seance_pct": -0.1,
+      "marge_jours": 3,
+      "score": 1.39,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 31.7,
+    "short_pct_flottant": 4.6,
+    "capi_Md": 0.43,
+    "volume_moyen_M": 0.57,
+    "derniers_resultats": "2026-08-05",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/OPRT.html"
+  },
+  {
+   "t": "PFE",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 30.42,
+   "niveaux": {
+    "entree": 30.3,
+    "stop": 29.25
+   },
+   "pente": {
+    "valeur": 0.0253,
+    "rang_jour": [
+     54,
+     79
+    ],
+    "rang_5seances": [
+     132,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-18",
+    "gap_pct": -1.3,
+    "volume_x": 3.7,
+    "seance_pct": -2.7,
+    "marge_jours": 3,
+    "score": 1.23,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 5692.0,
+    "short_pct_flottant": 2.6,
+    "capi_Md": 173.38,
+    "volume_moyen_M": 34.48,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/PFE.html"
+  },
+  {
+   "t": "PG",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 165.59,
+   "niveaux": {
+    "entree": 162.38,
+    "stop": 157.01
+   },
+   "pente": {
+    "valeur": 0.029,
+    "rang_jour": [
+     41,
+     79
+    ],
+    "rang_5seances": [
+     108,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-29",
+    "gap_pct": -5.0,
+    "volume_x": 1.9,
+    "seance_pct": -1.9,
+    "marge_jours": 3,
+    "score": 1.68,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-10-22",
+      "gap_pct": 3.4,
+      "volume_x": 2.6,
+      "seance_pct": 5.6,
+      "marge_jours": 3,
+      "score": 1.13,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 2320.0,
+    "short_pct_flottant": 1.1,
+    "capi_Md": 384.9,
+    "volume_moyen_M": 9.11,
+    "derniers_resultats": "2026-10-22"
+   },
+   "page": "g/PG.html"
+  },
+  {
+   "t": "PRTH",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 7.82,
+   "niveaux": {
+    "entree": 7.84,
+    "stop": 7.81
+   },
+   "pente": {
+    "valeur": 0.014,
+    "rang_jour": [
+     62,
+     79
+    ],
+    "rang_5seances": [
+     185,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-09-21",
+    "gap_pct": 33.5,
+    "volume_x": 49.5,
+    "seance_pct": 33.8,
+    "marge_jours": 3,
+    "score": 16.48,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-18",
+      "gap_pct": 1.4,
+      "volume_x": 10.3,
+      "seance_pct": 10.8,
+      "marge_jours": 3,
+      "score": 3.43,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-05-11",
+      "gap_pct": 8.4,
+      "volume_x": 5.7,
+      "seance_pct": 5.7,
+      "marge_jours": 3,
+      "score": 2.79,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 29.1,
+    "short_pct_flottant": 6.4,
+    "capi_Md": 0.64,
+    "volume_moyen_M": 1.04,
+    "derniers_resultats": "2026-08-06",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/PRTH.html"
+  },
+  {
+   "t": "RVTY",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 157.36,
+   "niveaux": {
+    "entree": 157.1,
+    "stop": 150.71
+   },
+   "pente": {
+    "valeur": 0.0106,
+    "rang_jour": [
+     66,
+     79
+    ],
+    "rang_5seances": [
+     194,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-30",
+    "gap_pct": 4.0,
+    "volume_x": 2.0,
+    "seance_pct": 0.0,
+    "marge_jours": 3,
+    "score": 1.32,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-28",
+      "gap_pct": 1.8,
+      "volume_x": 3.1,
+      "seance_pct": 4.6,
+      "marge_jours": 3,
+      "score": 1.04,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-05-05",
+      "gap_pct": 3.1,
+      "volume_x": 1.9,
+      "seance_pct": 6.7,
+      "marge_jours": 3,
+      "score": 1.02,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 102.5,
+    "short_pct_flottant": 8.5,
+    "capi_Md": 17.56,
+    "volume_moyen_M": 1.84,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/RVTY.html"
+  },
+  {
+   "t": "SLDE",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 27.75,
+   "niveaux": {
+    "entree": 27.69,
+    "stop": 25.0
+   },
+   "pente": {
+    "valeur": 0.0456,
+    "rang_jour": [
+     14,
+     79
+    ],
+    "rang_5seances": [
+     41,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-26",
+    "gap_pct": 1.1,
+    "volume_x": 3.9,
+    "seance_pct": 5.7,
+    "marge_jours": 3,
+    "score": 1.3,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-09-18",
+      "gap_pct": -0.9,
+      "volume_x": 3.7,
+      "seance_pct": -0.2,
+      "marge_jours": 3,
+      "score": 1.25,
+      "indiciel_probable": false,
+      "rebalancement_sp": true
+     },
+     {
+      "date": "2026-09-03",
+      "gap_pct": 0.7,
+      "volume_x": 3.1,
+      "seance_pct": 2.3,
+      "marge_jours": 3,
+      "score": 1.05,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 57.7,
+    "short_pct_flottant": 11.1,
+    "capi_Md": 3.24,
+    "volume_moyen_M": 1.18,
+    "derniers_resultats": "2026-07-28",
+    "prochains_resultats": "2026-10-27"
+   },
+   "page": "g/SLDE.html"
+  },
+  {
+   "t": "SNAP",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 6.35,
+   "niveaux": {
+    "entree": 6.51,
+    "stop": 5.87
+   },
+   "pente": {
+    "valeur": 0.0429,
+    "rang_jour": [
+     18,
+     79
+    ],
+    "rang_5seances": [
+     50,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-05-07",
+    "gap_pct": -7.2,
+    "volume_x": 1.7,
+    "seance_pct": -2.1,
+    "marge_jours": 3,
+    "score": 2.4,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-04",
+      "gap_pct": 5.8,
+      "volume_x": 2.9,
+      "seance_pct": 14.9,
+      "marge_jours": 3,
+      "score": 1.92,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-06-16",
+      "gap_pct": 0.2,
+      "volume_x": 3.0,
+      "seance_pct": -9.6,
+      "marge_jours": 3,
+      "score": 1.01,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 1110.5,
+    "short_pct_flottant": 9.1,
+    "capi_Md": 10.74,
+    "volume_moyen_M": 38.06,
+    "derniers_resultats": "2026-08-03",
+    "prochains_resultats": "2026-11-04"
+   },
+   "page": "g/SNAP.html"
+  },
+  {
+   "t": "TECH",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 72.62,
+   "niveaux": {
+    "entree": 72.71,
+    "stop": 72.47
+   },
+   "pente": {
+    "valeur": 0.0005,
+    "rang_jour": [
+     79,
+     79
+    ],
+    "rang_5seances": [
+     227,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-25",
+    "gap_pct": 19.3,
+    "volume_x": 19.5,
+    "seance_pct": 20.1,
+    "marge_jours": 3,
+    "score": 6.49,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-06",
+      "gap_pct": 0.0,
+      "volume_x": 6.1,
+      "seance_pct": -16.4,
+      "marge_jours": 3,
+      "score": 2.02,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 156.1,
+    "short_pct_flottant": 4.7,
+    "capi_Md": 11.39,
+    "volume_moyen_M": 3.05,
+    "derniers_resultats": "2026-08-12",
+    "prochains_resultats": "2026-11-09"
+   },
+   "page": "g/TECH.html"
+  },
+  {
+   "t": "TTAN",
+   "quoi": [
+    "base en formation"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 85.2,
+   "niveaux": {
+    "trigger": 99.87,
+    "stop": 94.64
+   },
+   "pente": null,
+   "depart": {
+    "date": "2026-09-09",
+    "gap_pct": -17.7,
+    "volume_x": 23.3,
+    "seance_pct": -30.0,
+    "marge_jours": 3,
+    "score": 7.78,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-05",
+      "gap_pct": 11.7,
+      "volume_x": 3.3,
+      "seance_pct": 4.1,
+      "marge_jours": 3,
+      "score": 3.91,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-06-26",
+      "gap_pct": 0.6,
+      "volume_x": 6.7,
+      "seance_pct": 9.1,
+      "marge_jours": 3,
+      "score": 2.22,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 66.4,
+    "short_pct_flottant": 14.4,
+    "capi_Md": 8.22,
+    "volume_moyen_M": 2.34,
+    "derniers_resultats": "2026-09-08",
+    "prochains_resultats": "2026-12-03"
+   },
+   "page": "g/TTAN.html"
+  },
+  {
+   "t": "UHS",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 188.13,
+   "niveaux": {
+    "entree": 187.66,
+    "stop": 182.44
+   },
+   "pente": {
+    "valeur": 0.0169,
+    "rang_jour": [
+     59,
+     79
+    ],
+    "rang_5seances": [
+     172,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-28",
+    "gap_pct": -6.1,
+    "volume_x": 2.5,
+    "seance_pct": 4.3,
+    "marge_jours": 3,
+    "score": 2.04,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-07-14",
+      "gap_pct": -5.1,
+      "volume_x": 2.0,
+      "seance_pct": -5.6,
+      "marge_jours": 3,
+      "score": 1.7,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-05-29",
+      "gap_pct": 0.4,
+      "volume_x": 4.6,
+      "seance_pct": -2.7,
+      "marge_jours": 3,
+      "score": 1.52,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 48.7,
+    "short_pct_flottant": 6.2,
+    "capi_Md": 11.09,
+    "volume_moyen_M": 0.75,
+    "derniers_resultats": "2026-07-27",
+    "prochains_resultats": "2026-10-27"
+   },
+   "page": "g/UHS.html"
+  },
+  {
+   "t": "VFC",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 17.48,
+   "niveaux": {
+    "entree": 17.52,
+    "stop": 16.75
+   },
+   "pente": {
+    "valeur": 0.0805,
+    "rang_jour": [
+     2,
+     79
+    ],
+    "rang_5seances": [
+     9,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-29",
+    "gap_pct": -12.1,
+    "volume_x": 4.5,
+    "seance_pct": -17.4,
+    "marge_jours": 3,
+    "score": 4.04,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-10-13",
+      "gap_pct": 5.6,
+      "volume_x": 1.7,
+      "seance_pct": 1.8,
+      "marge_jours": 3,
+      "score": 1.86,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-05-18",
+      "gap_pct": 4.1,
+      "volume_x": 1.8,
+      "seance_pct": 1.3,
+      "marge_jours": 3,
+      "score": 1.36,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 387.9,
+    "short_pct_flottant": 9.2,
+    "capi_Md": 6.87,
+    "volume_moyen_M": 8.61,
+    "derniers_resultats": "2026-07-29",
+    "prochains_resultats": "2026-10-28"
+   },
+   "page": "g/VFC.html"
+  },
+  {
+   "t": "VLTO",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 104.9,
+   "niveaux": {
+    "entree": 102.5,
+    "stop": 99.99
+   },
+   "pente": {
+    "valeur": 0.0216,
+    "rang_jour": [
+     56,
+     79
+    ],
+    "rang_5seances": [
+     149,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-09-18",
+    "gap_pct": -0.3,
+    "volume_x": 3.7,
+    "seance_pct": -0.8,
+    "marge_jours": 3,
+    "score": 1.22,
+    "indiciel_probable": false,
+    "rebalancement_sp": true,
+    "autres": [
+     {
+      "date": "2026-06-18",
+      "gap_pct": 0.4,
+      "volume_x": 3.4,
+      "seance_pct": 1.5,
+      "marge_jours": 3,
+      "score": 1.14,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-07-29",
+      "gap_pct": 3.1,
+      "volume_x": 1.8,
+      "seance_pct": 0.4,
+      "marge_jours": 3,
+      "score": 1.03,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 243.2,
+    "short_pct_flottant": 3.0,
+    "capi_Md": 25.57,
+    "volume_moyen_M": 1.67,
+    "derniers_resultats": "2026-07-28",
+    "prochains_resultats": "2026-10-29"
+   },
+   "page": "g/VLTO.html"
+  },
+  {
+   "t": "VRNS",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 48.89,
+   "niveaux": {
+    "entree": 48.83,
+    "stop": 48.66
+   },
+   "pente": {
+    "valeur": 0.0023,
+    "rang_jour": [
+     73,
+     79
+    ],
+    "rang_5seances": [
+     205,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-10-16",
+    "gap_pct": 2.8,
+    "volume_x": 22.9,
+    "seance_pct": 2.9,
+    "marge_jours": 3,
+    "score": 7.64,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-06-23",
+      "gap_pct": 1.7,
+      "volume_x": 6.4,
+      "seance_pct": 7.1,
+      "marge_jours": 3,
+      "score": 2.13,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-07-29",
+      "gap_pct": -4.5,
+      "volume_x": 2.5,
+      "seance_pct": -9.0,
+      "marge_jours": 3,
+      "score": 1.48,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 111.4,
+    "short_pct_flottant": 5.7,
+    "capi_Md": 5.62,
+    "volume_moyen_M": 2.61,
+    "derniers_resultats": "2026-07-28",
+    "prochains_resultats": "2026-11-03"
+   },
+   "page": "g/VRNS.html"
+  },
+  {
+   "t": "VRSN",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 304.59,
+   "niveaux": {
+    "entree": 310.44,
+    "stop": 302.86
+   },
+   "pente": {
+    "valeur": 0.0139,
+    "rang_jour": [
+     63,
+     79
+    ],
+    "rang_5seances": [
+     186,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-30",
+    "gap_pct": -3.0,
+    "volume_x": 1.0,
+    "seance_pct": -1.5,
+    "marge_jours": 3,
+    "score": 0.99,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 84.9,
+    "short_pct_flottant": 2.2,
+    "capi_Md": 27.53,
+    "volume_moyen_M": 0.83,
+    "derniers_resultats": "2026-10-22"
+   },
+   "page": "g/VRSN.html"
+  },
+  {
+   "t": "VSTM",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 10.06,
+   "niveaux": {
+    "entree": 9.74,
+    "stop": 8.51
+   },
+   "pente": {
+    "valeur": 0.0516,
+    "rang_jour": [
+     9,
+     79
+    ],
+    "rang_5seances": [
+     23,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-10-14",
+    "gap_pct": 7.4,
+    "volume_x": 13.0,
+    "seance_pct": 3.5,
+    "marge_jours": 3,
+    "score": 4.34,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-08-07",
+      "gap_pct": 12.5,
+      "volume_x": 2.0,
+      "seance_pct": 14.0,
+      "marge_jours": 3,
+      "score": 4.17,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-05-08",
+      "gap_pct": -3.7,
+      "volume_x": 3.9,
+      "seance_pct": -13.6,
+      "marge_jours": 3,
+      "score": 1.3,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 79.9,
+    "short_pct_flottant": 16.6,
+    "capi_Md": 0.91,
+    "volume_moyen_M": 3.15,
+    "derniers_resultats": "2026-08-06",
+    "prochains_resultats": "2026-11-05"
+   },
+   "page": "g/VSTM.html"
+  },
+  {
+   "t": "W",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 113.49,
+   "niveaux": {
+    "entree": 115.44,
+    "stop": 105.51
+   },
+   "pente": {
+    "valeur": 0.0288,
+    "rang_jour": [
+     43,
+     79
+    ],
+    "rang_5seances": [
+     110,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-04",
+    "gap_pct": 23.1,
+    "volume_x": 5.3,
+    "seance_pct": 30.0,
+    "marge_jours": 3,
+    "score": 7.69,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-06",
+      "gap_pct": 5.6,
+      "volume_x": 1.6,
+      "seance_pct": 4.4,
+      "marge_jours": 3,
+      "score": 1.88,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-07-08",
+      "gap_pct": -5.0,
+      "volume_x": 1.4,
+      "seance_pct": -7.0,
+      "marge_jours": 3,
+      "score": 1.67,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 114.5,
+    "short_pct_flottant": 13.8,
+    "capi_Md": 14.98,
+    "volume_moyen_M": 2.76,
+    "derniers_resultats": "2026-08-04",
+    "prochains_resultats": "2026-11-04"
+   },
+   "page": "g/W.html"
+  },
+  {
+   "t": "WAY",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 28.98,
+   "niveaux": {
+    "entree": 29.13,
+    "stop": 27.05
+   },
+   "pente": {
+    "valeur": 0.0363,
+    "rang_jour": [
+     23,
+     79
+    ],
+    "rang_5seances": [
+     69,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-07-30",
+    "gap_pct": -12.4,
+    "volume_x": 2.7,
+    "seance_pct": -14.6,
+    "marge_jours": 3,
+    "score": 4.15,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-09-15",
+      "gap_pct": 8.6,
+      "volume_x": 3.3,
+      "seance_pct": 7.1,
+      "marge_jours": 3,
+      "score": 2.85,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-05-19",
+      "gap_pct": 5.4,
+      "volume_x": 1.2,
+      "seance_pct": 5.7,
+      "marge_jours": 3,
+      "score": 1.81,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 139.3,
+    "short_pct_flottant": 9.6,
+    "capi_Md": 5.56,
+    "volume_moyen_M": 2.44,
+    "derniers_resultats": "2026-07-29",
+    "prochains_resultats": "2026-11-02"
+   },
+   "page": "g/WAY.html"
+  },
+  {
+   "t": "WMG",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 31.69,
+   "niveaux": {
+    "entree": 31.73,
+    "stop": 30.89
+   },
+   "pente": {
+    "valeur": 0.049,
+    "rang_jour": [
+     11,
+     79
+    ],
+    "rang_5seances": [
+     28,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-03",
+    "gap_pct": 5.0,
+    "volume_x": 2.0,
+    "seance_pct": -3.3,
+    "marge_jours": 3,
+    "score": 1.68,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-08",
+      "gap_pct": 3.9,
+      "volume_x": 4.0,
+      "seance_pct": 7.5,
+      "marge_jours": 3,
+      "score": 1.32,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-09-18",
+      "gap_pct": -0.3,
+      "volume_x": 3.1,
+      "seance_pct": 0.3,
+      "marge_jours": 3,
+      "score": 1.02,
+      "indiciel_probable": false,
+      "rebalancement_sp": true
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 146.2,
+    "short_pct_flottant": 8.9,
+    "capi_Md": 16.58,
+    "volume_moyen_M": 2.22,
+    "derniers_resultats": "2026-08-05",
+    "prochains_resultats": "2026-11-19"
+   },
+   "page": "g/WMG.html"
+  },
+  {
+   "t": "WMT",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 121.12,
+   "niveaux": {
+    "entree": 120.68,
+    "stop": 112.21
+   },
+   "pente": {
+    "valeur": 0.0398,
+    "rang_jour": [
+     19,
+     79
+    ],
+    "rang_5seances": [
+     56,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-20",
+    "gap_pct": -6.9,
+    "volume_x": 3.9,
+    "seance_pct": -9.2,
+    "marge_jours": 3,
+    "score": 2.31,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-21",
+      "gap_pct": -4.9,
+      "volume_x": 3.2,
+      "seance_pct": -7.3,
+      "marge_jours": 3,
+      "score": 1.64,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-10-15",
+      "gap_pct": 3.3,
+      "volume_x": 1.4,
+      "seance_pct": 1.5,
+      "marge_jours": 3,
+      "score": 1.1,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 4850.1,
+    "short_pct_flottant": 1.8,
+    "capi_Md": 960.94,
+    "volume_moyen_M": 23.82,
+    "derniers_resultats": "2026-08-20",
+    "prochains_resultats": "2026-11-19"
+   },
+   "page": "g/WMT.html"
+  },
+  {
+   "t": "WRB",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 75.55,
+   "niveaux": {
+    "entree": 75.57,
+    "stop": 72.71
+   },
+   "pente": {
+    "valeur": 0.0263,
+    "rang_jour": [
+     50,
+     79
+    ],
+    "rang_5seances": [
+     127,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-09-18",
+    "gap_pct": -0.4,
+    "volume_x": 9.8,
+    "seance_pct": -0.2,
+    "marge_jours": 3,
+    "score": 3.28,
+    "indiciel_probable": true,
+    "rebalancement_sp": true,
+    "autres": [
+     {
+      "date": "2026-05-29",
+      "gap_pct": -0.5,
+      "volume_x": 4.4,
+      "seance_pct": -1.2,
+      "marge_jours": 3,
+      "score": 1.46,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 243.9,
+    "short_pct_flottant": 5.6,
+    "capi_Md": 28.05,
+    "volume_moyen_M": 2.5,
+    "derniers_resultats": "2026-10-19",
+    "prochains_resultats": "2027-01-25"
+   },
+   "page": "g/WRB.html"
+  },
+  {
+   "t": "WSM",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 260.8,
+   "niveaux": {
+    "entree": 257.25,
+    "stop": 246.44
+   },
+   "pente": {
+    "valeur": 0.0293,
+    "rang_jour": [
+     40,
+     79
+    ],
+    "rang_5seances": [
+     105,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-08-26",
+    "gap_pct": -4.6,
+    "volume_x": 2.9,
+    "seance_pct": 1.1,
+    "marge_jours": 3,
+    "score": 1.53,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": []
+   },
+   "fondamentaux": {
+    "flottant_M": 116.3,
+    "short_pct_flottant": 4.7,
+    "capi_Md": 30.71,
+    "volume_moyen_M": 1.1,
+    "derniers_resultats": "2026-08-26",
+    "prochains_resultats": "2026-11-18"
+   },
+   "page": "g/WSM.html"
+  },
+  {
+   "t": "XOM",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 178.23,
+   "niveaux": {
+    "entree": 180.53,
+    "stop": 174.91
+   },
+   "pente": {
+    "valeur": 0.0326,
+    "rang_jour": [
+     32,
+     79
+    ],
+    "rang_5seances": [
+     85,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-15",
+    "gap_pct": -4.9,
+    "volume_x": 1.4,
+    "seance_pct": -4.1,
+    "marge_jours": 3,
+    "score": 1.65,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-05-06",
+      "gap_pct": -3.8,
+      "volume_x": 1.3,
+      "seance_pct": -4.0,
+      "marge_jours": 3,
+      "score": 1.25,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-07-29",
+      "gap_pct": 3.1,
+      "volume_x": 1.0,
+      "seance_pct": 2.4,
+      "marge_jours": 3,
+      "score": 1.02,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 4103.8,
+    "short_pct_flottant": 1.1,
+    "capi_Md": 732.87,
+    "volume_moyen_M": 13.51,
+    "derniers_resultats": "2026-07-31",
+    "prochains_resultats": "2026-10-30"
+   },
+   "page": "g/XOM.html"
+  },
+  {
+   "t": "YEXT",
+   "quoi": [
+    "cassure Shannon"
+   ],
+   "seance": "2026-10-22",
+   "cloture": 7.34,
+   "niveaux": {
+    "entree": 7.2,
+    "stop": 6.85
+   },
+   "pente": {
+    "valeur": 0.0305,
+    "rang_jour": [
+     38,
+     79
+    ],
+    "rang_5seances": [
+     98,
+     229
+    ]
+   },
+   "depart": {
+    "date": "2026-06-03",
+    "gap_pct": -22.4,
+    "volume_x": 3.1,
+    "seance_pct": -9.0,
+    "marge_jours": 3,
+    "score": 7.48,
+    "indiciel_probable": false,
+    "rebalancement_sp": false,
+    "autres": [
+     {
+      "date": "2026-09-01",
+      "gap_pct": 13.1,
+      "volume_x": 4.1,
+      "seance_pct": -3.5,
+      "marge_jours": 3,
+      "score": 4.38,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     },
+     {
+      "date": "2026-06-12",
+      "gap_pct": 8.3,
+      "volume_x": 1.3,
+      "seance_pct": 7.4,
+      "marge_jours": 3,
+      "score": 2.78,
+      "indiciel_probable": false,
+      "rebalancement_sp": false
+     }
+    ]
+   },
+   "fondamentaux": {
+    "flottant_M": 65.2,
+    "short_pct_flottant": 11.9,
+    "capi_Md": 0.73,
+    "volume_moyen_M": 0.92,
+    "derniers_resultats": "2026-09-01",
+    "prochains_resultats": "2026-12-07"
+   },
+   "page": "g/YEXT.html"
+  }
+ ]
+}
