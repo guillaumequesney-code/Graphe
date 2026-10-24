@@ -1,76 +1,76 @@
 {
- "seance": "2026-10-22",
- "genere": "2026-10-23 02:51 UTC",
+ "seance": "2026-10-23",
+ "genere": "2026-10-24 02:53 UTC",
  "titres": {
-  "FIGS": {
-   "date": "07/05",
-   "texte": "Résultats T1 2026 le 7/05 : CA 159,9 M$ (+28 %), BPA 0,03 $ vs 0,01-0,02 attendu, prévisions 2026 relevées à +14-16 %, mais titre -26 % sur la consommation de trésorerie et les tendances de clients actifs ; relance le 6/08 avec le T2 : CA 196,6 M$ vs ~186,1 attendu, BPA dilué 0,15 $ (0,11 $ ajusté vs 0,07 attendu selon les agrégateurs), croissance 2026 relevée à ~20 % (de 14-16 %), marge d'EBITDA ajusté 14,8-15 %, rachat d'actions +100 M$, marge brute aidée de 780 pb par des remboursements de droits de douane IEEPA.",
-   "source": "https://www.sec.gov/Archives/edgar/data/0001846576/000162828026054319/figs-q22026xearningsreleas.htm"
+  "HPK": {
+   "date": "17/09",
+   "texte": "Le 17/09, Reuters rapporte que HighPeak Energy explore une vente de la société avec Evercore et Texas Capital Securities comme conseils, sans certitude d'aboutir : titre +6 à +8 % sur volume ×7,6 ; 51,9 % du flottant (21,8 M d'actions) est à découvert. Rien de daté trouvé pour le 29/07.",
+   "source": "https://ng.investing.com/news/stock-market-news/highpeak-energy-shares-jump-on-report-of-potential-sale-93CH-2700386"
   },
-  "VFC": {
-   "date": "29/07",
-   "texte": "Résultats T1 FY27 le 29/07 : CA 1,669 Md$ (-5,2 %) vs 1,674 attendu, perte ajustée 0,27 $ vs 0,22 attendue (Zacks), gros Vans en recul, remplacement du CFO (Abhishek Dalmia), titre -17,4 % ; prévision de CA FY27 relevée à au moins +2 % à changes constants. Relance le 13/10 : relèvements de JPMorgan (Underweight à Neutral), Piper Sandler (Overweight, objectif 20 $) et Barclays (objectif 24 $).",
-   "source": "https://www.businesswire.com/news/home/20260729467473/en/"
+  "CCC": {
+   "date": "09/07",
+   "texte": "Le 09/07, Reuters révèle que CCC Intelligent Solutions a mandaté Morgan Stanley pour explorer une vente et contacté des acheteurs potentiels, Bloomberg ajoutant qu'Elliott a constitué une participation importante via sa branche private equity : +10 % à 5,92 $ le 10/07 (capitalisation ~3,3 Md$ contre 6,4 un an plus tôt). Le volume ×28,8 du 15/10 sans gap est probablement indiciel.",
+   "source": "https://fenderbender.com/55390031"
   },
-  "ASO": {
-   "date": "09/06",
-   "texte": "T1 FY26 le 9/06 : CA 1,44 Md$ (+6,7 %), comparable +2,9 %, BPA ajusté 0,93 $, bas de la fourchette annuelle relevé ; relance le 9/09 avec le T2 : BPA ajusté 2,31 $ (+19,1 %) vs 2,11 attendu (2,09 selon une autre source), CA 1,647 Md$ (+3 %), comparable -0,4 %, marge brute 40,4 % vs 36 %, prévision de BPA annuelle relevée, remboursement de droits de douane +0,06 $ par action.",
-   "source": "https://academy.gcs-web.com/news-releases/news-release-details/academy-sports-outdoors-reports-second-quarter-fiscal-2026"
+  "WS": {
+   "date": "24/06",
+   "texte": "Résultats T4 FY26 (exercice clos le 31/05) publiés le 24/06 : CA 929,2 M$ (+12 %), BPA ajusté 0,74 $ vs 0,73 attendu, perte opérationnelle corrigée à 74,5 M$ (dépréciations Electrical Steel), acquisition de 62 % de Kloeckner bouclée le 03/06, la plus grosse de l'histoire du groupe. Relance le 06/10 avec le T1 FY27 : CA 2 726,6 M$ (+212 %, dont 1 772,7 M$ de Kloeckner, +9 % hors Kloeckner), BPA ajusté 0,57 $ vs 0,77 un an plus tôt, perte nette 7,0 M$ ; séance du 07/10 à -6,9 %.",
+   "source": "https://www.sec.gov/Archives/edgar/data/0001968487/000196848726000015/ws-ex99_1.htm"
   },
-  "KSS": {
-   "date": "28/05",
-   "texte": "T1 FY26 le 28/05 : perte de 0,13 $ vs 0,19 attendue, CA 3,167 Md$ vs 2,991 attendu, comparable -1,1 % (meilleure performance en quatre ans), prévisions annuelles confirmées (BPA 1,00-1,60 $) ; relance le 26/08 avec le T2 : BPA 1,28 $ vs 0,55 attendu (Zacks), marge brute +305 pb dont ~100 M$ de remboursements de droits de douane, prévisions relevées (BPA ajusté 1,80-2,40 $), rachats d'actions relancés jusqu'à 100 M$.",
-   "source": "https://corporate.kohls.com/news/kohls-reports-first-quarter-fiscal-2026-financial-results"
-  },
-  "DOCS": {
-   "date": "13/05",
-   "texte": "T4 FY26 publié le 13/05 (réaction du 14/05, gap -21,9 %) : BPA 0,26 $ vs 0,28 attendu, rémunération en actions doublée à 36,7 M$, EBITDA ajusté -6 %, prévision de CA FY27 à 664-676 M$ ; relance le 6/08 avec le T1 FY27 : CA 156,6 M$ (+7 %) vs ~151,7 attendu (+3,2 % selon Zacks), BPA ajusté 0,29 $ vs 0,30 attendu, prévision de CA FY27 relevée à 671-681 M$, EBITDA ajusté 309-329 M$ (investissements IA en hausse), T2 attendu à 170-171 M$.",
-   "source": "https://www.businesswire.com/news/home/20260806730067/en/Doximity-Announces-Fiscal-2027-First-Quarter-Financial-Results"
-  },
-  "FNKO": {
-   "date": "07/05",
-   "texte": "T1 2026 le 7/05 : CA 200,9 M$ (vs 190,7), marge brute record 44,2 %, EBITDA ajusté 11,3 M$ (vs -4,7), ventes et rentabilité annoncées nettement au-dessus des attentes, prévisions 2026 confirmées ; relance le 6/08 avec le T2 : CA 207,7 M$ (+7 %) vs 200,2 attendu (Barchart), BPA 0,27 $ (vs perte un an plus tôt), EBITDA ajusté 40,9 M$ dont 25,4 M$ de reprise liée aux droits de douane, prévision d'EBITDA ajusté relevée, CA annuel confirmé.",
-   "source": "https://www.businesswire.com/news/home/20260806035034/en/"
-  },
-  "CXT": {
-   "date": "12/06",
-   "texte": "Départ du 26/06 probablement indiciel (volume x8,7 sans gap, jour de reconstitution Russell), pas de nouvelle à chercher ; pour la séance du 17/06, aucune nouvelle d'entreprise trouvée, seul fait daté proche : achat par le DG Aaron Saak de 24 000 actions (1,01 M$) le 12/06.",
-   "source": "https://stockanalysis.com/stocks/CXT"
-  },
-  "VSTM": {
-   "date": "06/08",
-   "texte": "T2 2026 le 6/08 : ventes nettes d'Avmapki Fakzynja 25,1 M$ en forte progression séquentielle, +15 M$ de revenu de licence Secura Bio (jalon Copiktra), perte ajustée 0,31 $ par action (vs 0,62), trésorerie pro forma 201,4 M$ avec le financement Oberland de 75 M$ ; relance le 14/10 : données actualisées de VS-7375 (inhibiteur oral KRAS G12D) : 41 % de réponse confirmée chez 22 patients pancréas prétraités à 900 mg, alignement FDA sur une phase 3 de première ligne, augmentation de capital d'environ 250 M$ à 8 $, Michael Bailey DG au 1/01/2027, CA produit T3 préliminaire 23,9-24,1 M$.",
-   "source": "https://www.sec.gov/Archives/edgar/data/0001526119/000110465926092058/tm2622452d2_ex99-1.htm"
-  },
-  "MQ": {
-   "date": "05/05",
-   "texte": "T1 2026 publié le 5/05 après clôture : BPA 0,02 $ vs -0,01 attendu, CA 165,8 M$ vs 164,2 attendu, volume traité 112 Md$ (+33 %), mais prévision de croissance du T2 ramenée à +14-16 % (vs +19 % au T1) et +12-14 % sur l'année : titre -5,6 % après bourse, -7,7 % le 6/05. Regroupement d'actions 1 pour 4 effectif le 1/07.",
-   "source": "https://www.itiger.com/news/1104229780"
-  },
-  "WMG": {
-   "date": "07/05",
-   "texte": "T2 FY26 le 7/05 : BPA ajusté 0,44 $ (vs 0,32 un an plus tôt ; consensus ~0,30 selon Trefis, non vérifié), CA +17 %, résultat opérationnel +57 % à 264 M$, OIBDA ajusté +31 % à 397 M$, expansion de marge annuelle attendue en haut de la fourchette 150-200 pb ; relance le 3/08 : résultats préliminaires du T3 : CA 1,864 Md$ (+10 %), résultat opérationnel 305 M$ (+80 %), OIBDA ajusté 433 M$ (+16 %), BPA ajusté 0,51 $ (+21 %), objectifs annuels confirmés, publication avancée au 5/08.",
-   "source": "https://www.sec.gov/Archives/edgar/data/0001319161/000119312526329621/d113003dex991.htm"
+  "APA": {
+   "date": "15/06",
+   "texte": "Repli pétrolier sectoriel du 15/06 : accord intérimaire États-Unis–Iran pour rouvrir le détroit d'Ormuz, Brent -4,8 % vers 83 $ selon Bloomberg (NST : -4,1 % à 83,75 $), plus bas depuis début mars ; APA, COP et EOG ouvrent en gap de -4 à -6 % le même jour, pas de nouvelle propre à l'entreprise. Relance le 05/08 avec le T2 : BPA ajusté 1,89 $ vs 1,85 attendu (Zacks, +2,2 %), CA 2,4 Md$ vs 2,43 attendu (-1,5 %), production au-dessus des objectifs, cible de production pétrolière US relevée à 123 000 b/j et objectif d'économies 2026 porté de 450 à 500 M$ ; +5,4 % le 06/08.",
+   "source": "https://investor.apacorp.com/news-releases/news-release-details/apa-corporation-announces-second-quarter-2026-financial-and"
   },
   "COP": {
    "date": "15/06",
-   "texte": "Séance du 15/06 : annonce d'un accord États-Unis–Iran ouvrant la voie à la réouverture du détroit d'Ormuz, Brent -4,1 % à 83,75 $, WTI vers 80,4 $ (plus bas depuis mars), COP au plus bas de 15 semaines (111,71 $) ; mouvement sectoriel pétrole, pas de nouvelle propre à l'entreprise (résultats T1 publiés le 30/04, hors fenêtre ; rien trouvé pour le 6/05).",
-   "source": "https://www.nst.com.my/amp/business/economy/2026/06/1463503/oil-prices-tumble-us-iran-peace-deal-paves-way-reopening-strait"
+   "texte": "Repli pétrolier sectoriel du 15/06 : accord intérimaire États-Unis–Iran pour rouvrir le détroit d'Ormuz, Brent -4,8 % vers 83 $ selon Bloomberg (NST : -4,1 % à 83,75 $), plus bas depuis début mars ; APA, COP et EOG ouvrent en gap de -4 à -6 % le même jour, pas de nouvelle propre à l'entreprise. Rien de daté trouvé pour le 06/05 (seul un passage à Conserver de Freedom Broker, objectif 130 $).",
+   "source": "https://www.bloomberg.com/news/articles/2026-06-14/latest-oil-market-news-and-analysis-for-june-15"
   },
-  "GO": {
-   "date": "13/05",
-   "texte": "T1 FY26 publié le 13/05 (réaction du 14/05, gap +17,7 %) : BPA ajusté 0,05 $ vs 0,02 attendu (Zacks), CA 1,17 Md$ (+3,6 %), comparable -1,0 % (mieux que les -1,5 à -2,5 % prévus), dépréciation d'écart d'acquisition de 158 M$ (perte nette 1,83 $ par action), prévisions 2026 confirmées, +16,4 % après bourse ; relance le 12/08 avec le T2 : CA 1,19 Md$ (+1,1 %), comparable -0,3 %, BPA ajusté 0,20 $, bas de fourchette relevé pour le CA, l'EBITDA ajusté et le BPA, prévision de comparable améliorée.",
-   "source": "https://groceryoutletinc.gcs-web.com/news-releases/news-release-details/grocery-outlet-holding-corp-announces-first-quarter-fiscal-6"
+  "EOG": {
+   "date": "15/06",
+   "texte": "Repli pétrolier sectoriel du 15/06 : accord intérimaire États-Unis–Iran pour rouvrir le détroit d'Ormuz, Brent -4,8 % vers 83 $ selon Bloomberg (NST : -4,1 % à 83,75 $), plus bas depuis début mars ; APA, COP et EOG ouvrent en gap de -4 à -6 % le même jour, pas de nouvelle propre à l'entreprise. Rien de daté trouvé pour le 29/07 (les résultats T2 sont sortis début août, hors fenêtre).",
+   "source": "https://www.bloomberg.com/news/articles/2026-06-14/latest-oil-market-news-and-analysis-for-june-15"
   },
-  "EL": {
-   "date": "22/05",
-   "texte": "22/05 : fin officielle des discussions de fusion avec Puig (annonce conjointe du 21/05 au soir, opération évoquée jusqu'à 40 Md$), +11,5 % en séance (+13 % à l'ouverture) ; relance le 19/08 avec le T4 FY26 : BPA ajusté 0,39 $ vs 0,32 attendu, CA 3,63 Md$ vs ~3,55 attendu, croissance organique +5 % (quatrième trimestre consécutif de croissance), prévisions FY27 : BPA ajusté 3,10-3,35 $ vs 3,18 attendu, CA 15,5-15,8 Md$, marge opérationnelle ajustée 12,7-13,5 %, titre +11,8 % à +16 % selon les sources.",
-   "source": "https://www.tikr.com/blog/estee-lauder-nyse-el-stock-jumps-as-merger-talks-with-puig-officially-end"
+  "KDP": {
+   "date": "06/08",
+   "texte": "T2 2026 publié le 06/08 : CA 7,3 Md$ (+75,6 %, premier trimestre plein avec JDE Peet's intégré depuis le 01/04 ; +7,3 % pour le périmètre KDP) vs ~7,24 Md$ attendu, BPA ajusté 0,57 $ vs 0,55 attendu (Zacks, +16,3 % sur un an), résultat opérationnel GAAP -30,1 % (dépréciations), objectifs 2026 confirmés et séparation prévue début 2027 ; gap +5,7 % puis clôture -1,2 %. Le volume ×4,3 du 26/06 correspond à la reconstitution Russell.",
+   "source": "https://news.keurigdrpepper.com/2026-08-06-Keurig-Dr-Pepper-Reports-Q2-Results-and-Reaffirms-Guidance-for-2026"
   },
-  "EFOR": {
-   "date": "22/07",
-   "texte": "22/07 : Truist relève Everforth (ex-ASGN) de Hold à Buy, objectif 33 à 36 $, sur une reprise séquentielle attendue du conseil commercial ; +14,6 % en matinée (StockStory). Résultats T2 le 29/07, hors fenêtre : BPA 0,91 $ vs 0,82 attendu, CA 1,01 Md$ vs 987 M$ attendus. Séance du 1/10 : rien trouvé.",
-   "source": "https://www.marketbeat.com/stocks/NYSE/EFOR/earnings/"
+  "HALO": {
+   "date": "11/05",
+   "texte": "T1 2026 publié le 11/05 après clôture : CA 376,7 M$ (+42 %), redevances 240,7 M$ (+43 %, DARZALEX SC, VYVGART Hytrulo), BPA ajusté 1,60 $ vs 1,54 attendu (Zacks), prévisions 2026 réitérées (CA 1,71–1,81 Md$, BPA non-GAAP 7,75–8,25 $) et nouveau programme de rachat de 1 Md$ (≥400 M$ en 2026) : +6,8 % le 12/05. Le volume ×6,4 du 18/09 sans gap est le rebalancement S&P.",
+   "source": "https://www.sec.gov/Archives/edgar/data/0001159036/000115903626000067/ex991q120268-k.htm"
+  },
+  "CI": {
+   "date": "30/07",
+   "texte": "T2 2026 publié le 30/07 : BPA ajusté 7,78 $ vs 7,58 à 7,60 attendu selon la source (+2,4 à +2,6 %), contre 7,20 un an plus tôt ; CA 71,7 Md$ (+7 %) au-dessus des attentes ; objectif annuel de BPA ajusté relevé à au moins 30,45 $ contre 30,35. Le titre a pourtant reculé de 3 % ce jour-là.",
+   "source": "https://newsroom.thecignagroup.com/2026-07-30-The-Cigna-Group-Reports-Strong-Second-Quarter-2026-Results,-Raises-2026-Outlook"
+  },
+  "KRP": {
+   "date": "07/08",
+   "texte": "T2 2026 record publié le 07/08 : production 25 830 bep/j (26 967 en rythme avec Mesa Royalties, acquisition de 145,9 M$ bouclée le 22/06), revenus 112,5 M$, EBITDA ajusté 84,9 M$, résultat net 0,40 $/part, distribution relevée de 15 % à 0,47 $ (rendement ~13 %), pétrole réalisé 94,67 $/b : +3,2 % sur volume ×3,7. Rien de daté trouvé pour le 12/05 (T1 publié le 07/05).",
+   "source": "https://www.sec.gov/Archives/edgar/data/0001657788/000110465926092355/tm2622481d1_ex99-1.htm"
+  },
+  "ELF": {
+   "date": "20/05",
+   "texte": "T4 FY26 publié le 20/05 après clôture : CA 449,3 M$ (+35 %), marge brute 73 % (+140 pb), BPA ajusté 0,32 $ vs 0,29 attendu (Zacks) mais -59 % sur un an, perte GAAP 49,4 M$ ; exercice à 1,636 Md$ (+25 %) ; prévisions FY27 : CA 1,84–1,87 Md$, BPA 3,27–3,32 $ (jugées sous le consensus par une source) : +4,7 % le 21/05 sur gap +6,6 %. Rien de daté trouvé pour le 19/08.",
+   "source": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/05-20-2026-210538723"
+  },
+  "PD": {
+   "date": "28/05",
+   "texte": "T1 FY27 publié le 28/05 après clôture : CA 121,0 M$ (+1 %) vs 119,4 attendu, BPA non-GAAP 0,32 $ vs 0,25 attendu (+29 %, 247wallst ; Trefis cite 0,20), marge opérationnelle non-GAAP 24,6 %, ARR stable à 496 M$, rachat de 100 M$, John DiLullo nommé DG (Jennifer Tejada présidente exécutive), prévision annuelle de BPA non-GAAP relevée à 1,27–1,32 $ contre 1,23–1,28 : +33,7 % le 29/05 sur gap +25,4 %. Le 14/07 (gap -6,7 %), seule la nomination d'Alex Shootman au conseil est datée, rien d'explicatif.",
+   "source": "https://www.businesswire.com/news/home/20260528962339/en/PagerDuty-Announces-First-Quarter-Fiscal-2027-Financial-Results"
+  },
+  "WAY": {
+   "date": "29/07",
+   "texte": "T2 2026 publié le 29/07 après clôture : CA 319,7 M$ (+18 %) vs 316,2 attendu, BPA 0,43 $ vs 0,40, objectifs 2026 relevés, mais revenus au volume +3 % seulement (abonnements +34 %) et rétention nette en bas de fourchette historique : -14,6 % le 30/07 (gap -12,4 %). Relance le 15/09 (+7,1 %, gap +8,6 %) sur des informations selon lesquelles Waystar étudie ses options stratégiques, dont une vente possible ; Barclays à 30 $.",
+   "source": "https://investors.waystar.com/node/9261/html"
+  },
+  "PACS": {
+   "date": "11/05",
+   "texte": "T1 2026 publié le 11/05 après clôture : CA 1,42 Md$ (+11,2 %), EBITDA ajusté 170,4 M$ (+74,6 %, dont 16,3 M$ du programme californien WQIP absents des prévisions), résultat net 80,7 M$ (+184 %), levier net ~0,1x ; BPA 0,50 $ vs 0,42 attendu selon Benzinga, 0,64 $ (+0,23) selon Seeking Alpha, sources divergentes : +28,6 % le 12/05 sur gap +21 %. Rien de daté trouvé pour le 30/06.",
+   "source": "https://ir.pacs.com/news-events/press-releases/detail/134"
   }
  }
 }
